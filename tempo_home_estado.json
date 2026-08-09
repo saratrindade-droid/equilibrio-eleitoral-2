@@ -1,0 +1,23 @@
+{
+  "ativos": {
+    "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-09T06:48:53",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-09T06:48:53",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/08/novo-pede-cassacao-da-chapa-lula-alckmin-por-suposto-abuso-de-poder-economico.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-08-09T06:48:53",
+      "local": 10
+    }
+  },
+  "totais": {}
+}
