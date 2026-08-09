@@ -1,0 +1,40 @@
+name: Coleta tempo-na-home
+
+# Roda a cada 5 minutos, automaticamente, sem precisar de computador ligado.
+# GitHub Actions não garante o minuto exato (pode atrasar alguns minutos em
+# horários de pico), mas mantém a coleta rodando de forma confiável.
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:  # também permite rodar manualmente pelo botão "Run workflow"
+
+# Necessário pra o job poder salvar (commitar) os arquivos gerados de volta
+# no próprio repositório
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v5
+
+      - name: Configurar Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4
+
+      - name: Rodar o scraper
+        run: python scraper_tempo_home.py
+
+      - name: Salvar resultados no repositório
+        run: |
+          git config user.name "coleta-automatica"
+          git config user.email "coleta-automatica@users.noreply.github.com"
+          git add tempo_home.csv tempo_home_estado.json
+          git diff --staged --quiet || git commit -m "Atualiza coleta tempo-na-home"
+          git push
