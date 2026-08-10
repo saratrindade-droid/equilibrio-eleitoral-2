@@ -1,23 +1,12 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-trocam-criticas-sobre-educacao-seguranca-e-cracolandia-em-primeiro-debate-na-tv.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-09T23:57:46",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/governo-lula-e-violencia-viram-temas-de-tarcisio-e-haddad-em-debate-veja-como-foi-em-8-pontos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-10T05:11:47",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
     "https://www1.folha.uol.com.br/colunas/painel/2026/08/novo-pede-cassacao-da-chapa-lula-alckmin-por-suposto-abuso-de-poder-economico.shtml": 152.6,
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/lula-se-mete-em-sinuca-ao-anunciar-nova-conversa-com-trump.shtml": 477.0,
-    "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-voltam-a-se-enfrentar-pelo-governo-de-sp-em-debate-na-band.shtml": 579.7
+    "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-voltam-a-se-enfrentar-pelo-governo-de-sp-em-debate-na-band.shtml": 579.7,
+    "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-trocam-criticas-sobre-educacao-seguranca-e-cracolandia-em-primeiro-debate-na-tv.shtml": 947.3,
+    "https://www1.folha.uol.com.br/poder/2026/08/governo-lula-e-violencia-viram-temas-de-tarcisio-e-haddad-em-debate-veja-como-foi-em-8-pontos.shtml": 633.3
   }
 }
