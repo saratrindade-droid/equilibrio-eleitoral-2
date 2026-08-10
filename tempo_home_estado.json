@@ -1,5 +1,12 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/mundo/2026/08/lula-oferece-ajuda-apos-terremoto-atingir-colombia.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mundo/2026",
+      "entrada": "2026-08-10T18:36:52",
+      "local": 9
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
