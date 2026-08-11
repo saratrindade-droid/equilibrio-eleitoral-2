@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/motta-declara-apoio-a-lula-apos-seu-partido-rejeitar-coligacao-com-flavio-bolsonaro.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-11T11:09:31",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -15,6 +8,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-voltam-a-se-enfrentar-pelo-governo-de-sp-em-debate-na-band.shtml": 579.7,
     "https://www1.folha.uol.com.br/poder/2026/08/tarcisio-e-haddad-trocam-criticas-sobre-educacao-seguranca-e-cracolandia-em-primeiro-debate-na-tv.shtml": 947.3,
     "https://www1.folha.uol.com.br/poder/2026/08/governo-lula-e-violencia-viram-temas-de-tarcisio-e-haddad-em-debate-veja-como-foi-em-8-pontos.shtml": 633.3,
-    "https://www1.folha.uol.com.br/mundo/2026/08/lula-oferece-ajuda-apos-terremoto-atingir-colombia.shtml": 817.5
+    "https://www1.folha.uol.com.br/mundo/2026/08/lula-oferece-ajuda-apos-terremoto-atingir-colombia.shtml": 817.5,
+    "https://www1.folha.uol.com.br/poder/2026/08/motta-declara-apoio-a-lula-apos-seu-partido-rejeitar-coligacao-com-flavio-bolsonaro.shtml": 216.2
   }
 }
