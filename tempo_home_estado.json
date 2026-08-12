@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/ruycastro",
-      "entrada": "2026-08-12T12:05:35",
-      "local": 2
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -17,6 +10,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/governo-lula-e-violencia-viram-temas-de-tarcisio-e-haddad-em-debate-veja-como-foi-em-8-pontos.shtml": 633.3,
     "https://www1.folha.uol.com.br/mundo/2026/08/lula-oferece-ajuda-apos-terremoto-atingir-colombia.shtml": 817.5,
     "https://www1.folha.uol.com.br/poder/2026/08/motta-declara-apoio-a-lula-apos-seu-partido-rejeitar-coligacao-com-flavio-bolsonaro.shtml": 216.2,
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-troca-conselheiros-de-estatais-e-da-cargos-a-aliados-com-extra-de-ate-r-31-mil-por-mes.shtml": 261.7
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-troca-conselheiros-de-estatais-e-da-cargos-a-aliados-com-extra-de-ate-r-31-mil-por-mes.shtml": 261.7,
+    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": 206.3
   }
 }
