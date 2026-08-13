@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/08/plano-de-haddad-para-seguranca-acerta-mas-contem-imprecisoes.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "colunas/thiago-amparo",
-      "entrada": "2026-08-13T12:06:54",
-      "local": 3
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -18,6 +11,7 @@
     "https://www1.folha.uol.com.br/mundo/2026/08/lula-oferece-ajuda-apos-terremoto-atingir-colombia.shtml": 817.5,
     "https://www1.folha.uol.com.br/poder/2026/08/motta-declara-apoio-a-lula-apos-seu-partido-rejeitar-coligacao-com-flavio-bolsonaro.shtml": 216.2,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-troca-conselheiros-de-estatais-e-da-cargos-a-aliados-com-extra-de-ate-r-31-mil-por-mes.shtml": 261.7,
-    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": 206.3
+    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": 206.3,
+    "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/08/plano-de-haddad-para-seguranca-acerta-mas-contem-imprecisoes.shtml": 395.0
   }
 }
