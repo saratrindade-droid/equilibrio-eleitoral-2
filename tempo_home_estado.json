@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-14T09:31:58",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-08-14T12:00:13",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -25,6 +12,8 @@
     "https://www1.folha.uol.com.br/poder/2026/08/motta-declara-apoio-a-lula-apos-seu-partido-rejeitar-coligacao-com-flavio-bolsonaro.shtml": 216.2,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-troca-conselheiros-de-estatais-e-da-cargos-a-aliados-com-extra-de-ate-r-31-mil-por-mes.shtml": 261.7,
     "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": 206.3,
-    "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/08/plano-de-haddad-para-seguranca-acerta-mas-contem-imprecisoes.shtml": 395.0
+    "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/08/plano-de-haddad-para-seguranca-acerta-mas-contem-imprecisoes.shtml": 395.0,
+    "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml": 337.6,
+    "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml": 189.3
   }
 }
