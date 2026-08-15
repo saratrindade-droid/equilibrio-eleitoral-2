@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/08/lula-a-ultima-valsa.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/08/governo-diz-que-reciprocidade-contra-eua-pode-ser-acionada-em-outras-areas-alem-de-tarifas.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/demetriomagnoli",
-      "entrada": "2026-08-14T21:02:17",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/mundo/2026/08/lula-reitera-que-so-vai-analisar-aval-para-embaixador-de-trump-depois-das-eleicoes.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mundo/2026",
-      "entrada": "2026-08-15T08:01:04",
-      "local": 8
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-08-15T14:44:10",
+      "local": 7
     }
   },
   "totais": {
@@ -27,6 +21,8 @@
     "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/aspas-em-lulinha-e-flavio.shtml": 206.3,
     "https://www1.folha.uol.com.br/colunas/thiago-amparo/2026/08/plano-de-haddad-para-seguranca-acerta-mas-contem-imprecisoes.shtml": 395.0,
     "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml": 337.6,
-    "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml": 189.3
+    "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml": 189.3,
+    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/08/lula-a-ultima-valsa.shtml": 1061.9,
+    "https://www1.folha.uol.com.br/mundo/2026/08/lula-reitera-que-so-vai-analisar-aval-para-embaixador-de-trump-depois-das-eleicoes.shtml": 403.1
   }
 }
