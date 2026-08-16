@@ -1,5 +1,24 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-comeca-campanha-em-sao-bernardo-em-tom-emotivo-e-critica-gestao-da-pandemia-sob-bolsonaro.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-16T16:54:03",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/caiado-comeca-campanha-com-carreata-em-goias-e-afirma-que-e-oposicao-a-lula-apos-fala-de-kassab.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-16T16:54:03",
+      "local": 10
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/veja-pontos-em-que-os-planos-de-governo-de-lula-e-flavio-bolsonaro-divergem.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-16T16:54:03",
+      "local": 12
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
