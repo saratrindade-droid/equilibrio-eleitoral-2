@@ -10,12 +10,6 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-08-16T16:54:03",
-      "local": 11
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/veja-pontos-em-que-os-planos-de-governo-de-lula-e-flavio-bolsonaro-divergem.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-16T16:54:03",
       "local": 10
     }
   },
@@ -39,6 +33,7 @@
     "https://www1.folha.uol.com.br/mercado/2026/08/governo-diz-que-reciprocidade-contra-eua-pode-ser-acionada-em-outras-areas-alem-de-tarifas.shtml": 416.2,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/confraria-de-interesses-se-une-a-lula.shtml": 890.8,
     "https://www1.folha.uol.com.br/mercado/2026/08/programas-de-lula-e-flavio-fazem-promessas-sem-dizer-como-vao-bancar-gastos.shtml": 606.8,
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-mira-jovens-e-campanha-deve-destacar-janja-apos-esquecer-mulheres-em-convencao.shtml": 606.8
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-mira-jovens-e-campanha-deve-destacar-janja-apos-esquecer-mulheres-em-convencao.shtml": 606.8,
+    "https://www1.folha.uol.com.br/poder/2026/08/veja-pontos-em-que-os-planos-de-governo-de-lula-e-flavio-bolsonaro-divergem.shtml": 285.9
   }
 }
