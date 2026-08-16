@@ -1,24 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/confraria-de-interesses-se-une-a-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-08-15T16:56:19",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/08/programas-de-lula-e-flavio-fazem-promessas-sem-dizer-como-vao-bancar-gastos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-08-15T21:40:21",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-mira-jovens-e-campanha-deve-destacar-janja-apos-esquecer-mulheres-em-convencao.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-15T21:40:21",
-      "local": 10
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -36,6 +17,9 @@
     "https://www1.folha.uol.com.br/mercado/2026/08/lula-promete-continuidade-economica-e-nao-menciona-reducao-de-gastos-em-plano-de-governo.shtml": 189.3,
     "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/08/lula-a-ultima-valsa.shtml": 1061.9,
     "https://www1.folha.uol.com.br/mundo/2026/08/lula-reitera-que-so-vai-analisar-aval-para-embaixador-de-trump-depois-das-eleicoes.shtml": 403.1,
-    "https://www1.folha.uol.com.br/mercado/2026/08/governo-diz-que-reciprocidade-contra-eua-pode-ser-acionada-em-outras-areas-alem-de-tarifas.shtml": 416.2
+    "https://www1.folha.uol.com.br/mercado/2026/08/governo-diz-que-reciprocidade-contra-eua-pode-ser-acionada-em-outras-areas-alem-de-tarifas.shtml": 416.2,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/confraria-de-interesses-se-une-a-lula.shtml": 890.8,
+    "https://www1.folha.uol.com.br/mercado/2026/08/programas-de-lula-e-flavio-fazem-promessas-sem-dizer-como-vao-bancar-gastos.shtml": 606.8,
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-mira-jovens-e-campanha-deve-destacar-janja-apos-esquecer-mulheres-em-convencao.shtml": 606.8
   }
 }
