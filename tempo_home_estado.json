@@ -1,5 +1,12 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/encaminhado-com-frequencia",
+      "entrada": "2026-08-17T10:06:24",
+      "local": 2
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
