@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/ambiente/2026/08/lula-promete-protecao-ambiental-ao-defender-petroleo-na-foz-do-amazonas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "ambiente/2026",
-      "entrada": "2026-08-18T03:09:19",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -33,6 +26,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/caiado-comeca-campanha-com-carreata-em-goias-e-afirma-que-e-oposicao-a-lula-apos-fala-de-kassab.shtml": 909.4,
     "https://www1.folha.uol.com.br/poder/2026/08/no-dia-1-de-campanha-pt-faz-culto-a-personalidade-de-lula-e-pl-projeta-flavio-como-o-anti-pt.shtml": 504.6,
     "https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-decide-nao-ir-a-debate-da-band-e-alega-desigualdade-de-condicoes.shtml": 483.0,
-    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml": 571.1
+    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml": 571.1,
+    "https://www1.folha.uol.com.br/ambiente/2026/08/lula-promete-protecao-ambiental-ao-defender-petroleo-na-foz-do-amazonas.shtml": 292.7
   }
 }
