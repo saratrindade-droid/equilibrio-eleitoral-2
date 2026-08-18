@@ -5,12 +5,6 @@
       "editoria_texto": "colunas/dora-kramer",
       "entrada": "2026-08-18T17:02:21",
       "local": 2
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/campanha-de-lula-avalia-ato-para-evangelicos-mas-ideia-divide-aliados.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-18T17:02:21",
-      "local": 7
     }
   },
   "totais": {
@@ -40,6 +34,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/no-dia-1-de-campanha-pt-faz-culto-a-personalidade-de-lula-e-pl-projeta-flavio-como-o-anti-pt.shtml": 504.6,
     "https://www1.folha.uol.com.br/colunas/painel/2026/08/lula-decide-nao-ir-a-debate-da-band-e-alega-desigualdade-de-condicoes.shtml": 483.0,
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml": 571.1,
-    "https://www1.folha.uol.com.br/ambiente/2026/08/lula-promete-protecao-ambiental-ao-defender-petroleo-na-foz-do-amazonas.shtml": 292.7
+    "https://www1.folha.uol.com.br/ambiente/2026/08/lula-promete-protecao-ambiental-ao-defender-petroleo-na-foz-do-amazonas.shtml": 292.7,
+    "https://www1.folha.uol.com.br/poder/2026/08/campanha-de-lula-avalia-ato-para-evangelicos-mas-ideia-divide-aliados.shtml": 234.3
   }
 }
