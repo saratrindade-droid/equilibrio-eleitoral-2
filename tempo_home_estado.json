@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/caso-lulinha-recoloca-corrupcao-no-caminho-da-campanha-de-lula-e-desafia-plano-para-desgastar-flavio-bolsonaro.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-19T21:00:11",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/haddad-defende-investigacao-sobre-lulinha-e-marcola-tem-que-passar-a-regua-em-quem-quer-que-seja.shtml": {
-      "categoria_texto": "Lula e Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-19T21:00:11",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -42,6 +29,8 @@
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/08/na-largada-da-campanha-eleitoral-lula-lidera-atencao-nas-redes-sociais.shtml": 571.1,
     "https://www1.folha.uol.com.br/ambiente/2026/08/lula-promete-protecao-ambiental-ao-defender-petroleo-na-foz-do-amazonas.shtml": 292.7,
     "https://www1.folha.uol.com.br/poder/2026/08/campanha-de-lula-avalia-ato-para-evangelicos-mas-ideia-divide-aliados.shtml": 234.3,
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/pt-atrela-futuro-a-saudade-do-passado.shtml": 352.7
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/pt-atrela-futuro-a-saudade-do-passado.shtml": 352.7,
+    "https://www1.folha.uol.com.br/poder/2026/08/caso-lulinha-recoloca-corrupcao-no-caminho-da-campanha-de-lula-e-desafia-plano-para-desgastar-flavio-bolsonaro.shtml": 667.3,
+    "https://www1.folha.uol.com.br/poder/2026/08/haddad-defende-investigacao-sobre-lulinha-e-marcola-tem-que-passar-a-regua-em-quem-quer-que-seja.shtml": 667.3
   }
 }
