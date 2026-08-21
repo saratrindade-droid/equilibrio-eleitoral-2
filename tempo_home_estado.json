@@ -1,15 +1,15 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/pf-aponta-lulinha-como-beneficiario-indireto-em-acao-de-lobista-no-governo-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-20T23:01:06",
-      "local": 7
-    },
     "https://www1.folha.uol.com.br/poder/2026/08/lulinha-tinha-comunhao-de-interesses-economicos-com-lobista-que-negociava-contrato-no-governo-lula-diz-pf.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-08-20T23:55:57",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/lobista-pagou-cartao-e-carro-de-ex-chefe-de-gabinete-de-lula-enquanto-negociava-com-governo-diz-pf.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-21T15:53:51",
       "local": 6
     }
   },
@@ -47,6 +47,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/haddad-defende-investigacao-sobre-lulinha-e-marcola-tem-que-passar-a-regua-em-quem-quer-que-seja.shtml": 667.3,
     "https://www1.folha.uol.com.br/opiniao/2026/08/o-ajuste-fiscal-de-ocasiao.shtml": 300.1,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-recebe-advogado-de-lulinha-ouve-queixa-de-vazamentos-e-pede-que-filho-explique-acusacoes.shtml": 476.3,
-    "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-explora-caso-lulinha-para-desgastar-lula-e-foca-seguranca-ao-lado-de-derrite.shtml": 451.4
+    "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-explora-caso-lulinha-para-desgastar-lula-e-foca-seguranca-ao-lado-de-derrite.shtml": 451.4,
+    "https://www1.folha.uol.com.br/poder/2026/08/pf-aponta-lulinha-como-beneficiario-indireto-em-acao-de-lobista-no-governo-lula.shtml": 1012.8
   }
 }
