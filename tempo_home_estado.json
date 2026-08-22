@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/datafolha-petistas-falam-em-alivio-com-estabilidade-de-lula-e-equipe-de-flavio-ve-insatisfacao-com-governo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-22T09:02:15",
-      "local": 7
-    },
     "https://www1.folha.uol.com.br/poder/2026/08/direita-se-organiza-e-centro-ganha-terreno-no-nordeste-sem-confrontar-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
@@ -55,6 +49,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/datafolha-tarcisio-lidera-disputa-para-governo-de-sp-com-45-contra-27-de-haddad.shtml": 667.9,
     "https://www1.folha.uol.com.br/poder/2026/08/datafolha-popularidade-de-lula-derrapa-e-mantem-disputa-com-flavio-equilibrada.shtml": 354.1,
     "https://www1.folha.uol.com.br/poder/2026/08/datafolha-avaliacao-negativa-de-lula-vai-de-38-para-41.shtml": 958.5,
-    "https://www1.folha.uol.com.br/poder/2026/08/datafolha-lula-lidera-entre-mulheres-e-mais-pobres-e-flavio-bolsonaro-entre-evangelicos.shtml": 404.6
+    "https://www1.folha.uol.com.br/poder/2026/08/datafolha-lula-lidera-entre-mulheres-e-mais-pobres-e-flavio-bolsonaro-entre-evangelicos.shtml": 404.6,
+    "https://www1.folha.uol.com.br/poder/2026/08/datafolha-petistas-falam-em-alivio-com-estabilidade-de-lula-e-equipe-de-flavio-ve-insatisfacao-com-governo.shtml": 522.2
   }
 }
