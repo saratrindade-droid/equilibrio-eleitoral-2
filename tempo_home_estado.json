@@ -1,10 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/08/datafolha-petistas-falam-em-alivio-com-estabilidade-de-lula-e-equipe-de-flavio-ve-insatisfacao-com-governo.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-08-24T16:07:09",
-      "local": 1
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-24T21:00:20",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml ": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-24T21:00:20",
+      "local": 10
     }
   },
   "totais": {
@@ -56,6 +62,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/datafolha-avaliacao-positiva-de-lula-vai-de-46-em-pe-a-27-em-sp-rj-e-df.shtml": 606.7,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/bolsonarinho-lulinha-e-o-efeito-do-prestigio-de-lula-na-eleicao.shtml": 670.7,
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/ter-tirado-as-forcas-armadas-da-frigideira-foi-a-maior-proeza-de-lula-3.shtml": 788.4,
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml": 741.9
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml": 741.9,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml": 293.2
   }
 }
