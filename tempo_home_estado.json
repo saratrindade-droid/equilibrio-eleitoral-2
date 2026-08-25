@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-cobra-corpo-a-corpo-de-aliados-em-campanha-pressionada-por-revelacoes-sobre-lulinha.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-24T22:59:32",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -58,6 +51,7 @@
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/08/ter-tirado-as-forcas-armadas-da-frigideira-foi-a-maior-proeza-de-lula-3.shtml": 788.4,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-lulinha-precisa-se-defender-e-nega-blindagem-a-pf.shtml": 741.9,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml": 293.2,
-    "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml ": 119.2
+    "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml ": 119.2,
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-cobra-corpo-a-corpo-de-aliados-em-campanha-pressionada-por-revelacoes-sobre-lulinha.shtml": 621.1
   }
 }
