@@ -1,10 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/elogio-da-esterilidade.shtml": {
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/ruycastro",
-      "entrada": "2026-08-26T11:50:42",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-08-28T00:57:18",
       "local": 2
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-28T00:57:18",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/candidatos-arrecadam-r-78-mi-e-recebem-r-650-mi-de-partidos-com-10-dias-de-campanha.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-08-28T00:57:18",
+      "local": 9
     }
   },
   "totais": {
@@ -60,6 +72,7 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/fuga-de-debate-denota-medo-do-contraditorio.shtml": 293.2,
     "https://www1.folha.uol.com.br/poder/2026/08/pt-patrocina-posts-enaltecendo-governo-e-pl-impulsiona-conteudo-para-desgastar-lula.shtml ": 119.2,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-cobra-corpo-a-corpo-de-aliados-em-campanha-pressionada-por-revelacoes-sobre-lulinha.shtml": 621.1,
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/duas-campanhas-com-as-almas-enfiadas-na-lama.shtml": 364.8
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/08/duas-campanhas-com-as-almas-enfiadas-na-lama.shtml": 364.8,
+    "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/elogio-da-esterilidade.shtml": 2226.6
   }
 }
