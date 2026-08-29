@@ -6,11 +6,11 @@
       "entrada": "2026-08-29T13:35:44",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-exalta-janja-e-fim-da-6x1-em-ato-de-mulheres-em-mg-com-protesto-de-petistas.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-08-29T17:38:21",
-      "local": 9
+      "entrada": "2026-08-29T17:49:12",
+      "local": 8
     }
   },
   "totais": {
@@ -73,6 +73,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/candidatos-arrecadam-r-78-mi-e-recebem-r-650-mi-de-partidos-com-10-dias-de-campanha.shtml": 1255.1,
     "https://www1.folha.uol.com.br/poder/2026/08/apoiadores-usam-os-mesmos-argumentos-sobre-fotos-de-lula-com-lobista-e-flavio-bolsonaro-com-sicario.shtml": 511.1,
     "https://www1.folha.uol.com.br/poder/2026/08/flavio-bolsonaro-se-nega-a-prestar-contas-sobre-dark-horse-e-tenta-colar-master-em-lula.shtml": 932.4,
-    "https://www1.folha.uol.com.br/poder/2026/08/lula-reclama-de-entrevista-na-globo-e-diz-que-e-triste-nao-discutir-mais-propostas.shtml": 822.1
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-reclama-de-entrevista-na-globo-e-diz-que-e-triste-nao-discutir-mais-propostas.shtml": 822.1,
+    "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-enfrenta-poderosos-e-flavio-bolsonaro-busca-voto-feminino-em-primeiro-programa-na-tv.shtml": 10.9
   }
 }
