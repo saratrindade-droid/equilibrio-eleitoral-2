@@ -11,12 +11,6 @@
       "editoria_texto": "poder/2026",
       "entrada": "2026-08-29T01:43:34",
       "local": 9
-    },
-    "https://www1.folha.uol.com.br/poder/2026/08/apoiadores-usam-os-mesmos-argumentos-sobre-fotos-de-lula-com-lobista-e-flavio-bolsonaro-com-sicario.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-08-29T01:43:34",
-      "local": 10
     }
   },
   "totais": {
@@ -76,6 +70,7 @@
     "https://www1.folha.uol.com.br/colunas/ruycastro/2026/08/elogio-da-esterilidade.shtml": 2226.6,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/08/lula-3-nao-entendeu-que-lula-4-depende-de-muito-mais-do-que-emprego-e-renda-melhores.shtml": 1255.1,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-diz-que-acusacoes-contra-filho-sao-ilacoes-e-chama-lobista-amiga-de-lulinha-de-pilantra.shtml": 1255.1,
-    "https://www1.folha.uol.com.br/poder/2026/08/candidatos-arrecadam-r-78-mi-e-recebem-r-650-mi-de-partidos-com-10-dias-de-campanha.shtml": 1255.1
+    "https://www1.folha.uol.com.br/poder/2026/08/candidatos-arrecadam-r-78-mi-e-recebem-r-650-mi-de-partidos-com-10-dias-de-campanha.shtml": 1255.1,
+    "https://www1.folha.uol.com.br/poder/2026/08/apoiadores-usam-os-mesmos-argumentos-sobre-fotos-de-lula-com-lobista-e-flavio-bolsonaro-com-sicario.shtml": 511.1
   }
 }
