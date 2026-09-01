@@ -11,12 +11,6 @@
       "editoria_texto": "mercado/2026",
       "entrada": "2026-09-01T06:16:02",
       "local": 8
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-01T07:55:27",
-      "local": 9
     }
   },
   "totais": {
@@ -90,6 +84,7 @@
     "https://www1.folha.uol.com.br/poder/2026/08/tse-suspende-propaganda-de-lula-que-lista-acusacoes-contra-flavio-bolsonaro.shtml": 613.7,
     "https://www1.folha.uol.com.br/poder/2026/08/aliados-de-lula-dizem-que-percepcao-sobre-precos-e-dividas-e-risco-maior-que-lulinha-na-eleicao.shtml": 110.8,
     "https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-tem-37-flavio-31-e-augusto-cury-sobre-9-pontos-e-marca-11-no-1o-turno.shtml": 750.9,
-    "https://www1.folha.uol.com.br/mercado/2026/08/lula-janta-com-empresarios-e-banqueiros-em-busca-de-apoio-do-setor-privado-veja-convidados.shtml": 345.1
+    "https://www1.folha.uol.com.br/mercado/2026/08/lula-janta-com-empresarios-e-banqueiros-em-busca-de-apoio-do-setor-privado-veja-convidados.shtml": 345.1,
+    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml": 207.1
   }
 }
