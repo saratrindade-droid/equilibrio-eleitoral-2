@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/08/bolsonaristas-lideram-em-7-estados-e-df-e-aliados-de-lula-despontam-em-5.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-01T02:45:05",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/09/lula-promete-a-empresarios-fazer-o-possivel-para-reduzir-juros-e-reclama-de-descrenca-sobre-questao-fiscal.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-09-01T06:16:02",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -85,6 +72,8 @@
     "https://www1.folha.uol.com.br/poder/2026/08/aliados-de-lula-dizem-que-percepcao-sobre-precos-e-dividas-e-risco-maior-que-lulinha-na-eleicao.shtml": 110.8,
     "https://www1.folha.uol.com.br/poder/2026/08/btgnexus-lula-tem-37-flavio-31-e-augusto-cury-sobre-9-pontos-e-marca-11-no-1o-turno.shtml": 750.9,
     "https://www1.folha.uol.com.br/mercado/2026/08/lula-janta-com-empresarios-e-banqueiros-em-busca-de-apoio-do-setor-privado-veja-convidados.shtml": 345.1,
-    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml": 207.1
+    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-designacao-de-pcc-como-terrorista-pelos-eua-e-uma-questao-menor.shtml": 207.1,
+    "https://www1.folha.uol.com.br/poder/2026/08/bolsonaristas-lideram-em-7-estados-e-df-e-aliados-de-lula-despontam-em-5.shtml": 580.0,
+    "https://www1.folha.uol.com.br/mercado/2026/09/lula-promete-a-empresarios-fazer-o-possivel-para-reduzir-juros-e-reclama-de-descrenca-sobre-questao-fiscal.shtml": 369.1
   }
 }
