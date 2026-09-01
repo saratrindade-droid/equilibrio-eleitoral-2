@@ -4,7 +4,13 @@
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-09-01T00:30:55",
-      "local": 11
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/poder/2026/08/bolsonaristas-lideram-em-7-estados-e-df-e-aliados-de-lula-despontam-em-5.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-01T02:45:05",
+      "local": 6
     }
   },
   "totais": {
