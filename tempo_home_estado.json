@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/gilmar-procura-lula-para-cobrar-apoio-do-governo-a-cupula-da-pf-em-embate-entre-moraes-e-mendonca.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-02T21:56:26",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-02T22:55:05",
-      "local": 6
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -89,6 +76,8 @@
     "https://www1.folha.uol.com.br/poder/2026/08/bolsonaristas-lideram-em-7-estados-e-df-e-aliados-de-lula-despontam-em-5.shtml": 580.0,
     "https://www1.folha.uol.com.br/mercado/2026/09/lula-promete-a-empresarios-fazer-o-possivel-para-reduzir-juros-e-reclama-de-descrenca-sobre-questao-fiscal.shtml": 369.1,
     "https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-quer-usar-dialogo-entre-moraes-e-vorcaro-para-pedir-fim-de-sigilo-no-caso-dark-horse.shtml": 338.5,
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-pressionado-para-se-pronunciar-sobre-alexandre-de-moraes.shtml": 345.7
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-pressionado-para-se-pronunciar-sobre-alexandre-de-moraes.shtml": 345.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/gilmar-procura-lula-para-cobrar-apoio-do-governo-a-cupula-da-pf-em-embate-entre-moraes-e-mendonca.shtml": 577.1,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml": 518.5
   }
 }
