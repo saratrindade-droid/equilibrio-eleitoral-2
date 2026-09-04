@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-38-e-flavio-bolsonaro-33-no-1o-turno-cury-vai-a-8.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-03T22:06:58",
-      "local": 11
-    },
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/monicabergamo",
@@ -98,6 +92,7 @@
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/lula-e-pressionado-para-se-pronunciar-sobre-alexandre-de-moraes.shtml": 345.7,
     "https://www1.folha.uol.com.br/poder/2026/09/gilmar-procura-lula-para-cobrar-apoio-do-governo-a-cupula-da-pf-em-embate-entre-moraes-e-mendonca.shtml": 577.1,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-fala-com-fachin-sobre-crise-no-stf-se-distancia-de-moraes-e-define-discurso-do-ninguem-acima-da-lei.shtml": 518.5,
-    "https://www1.folha.uol.com.br/poder/2026/09/e-a-maior-crise-do-stf-gonet-deveria-se-afastar-do-caso-master-e-moraes-precisa-ser-investigado-afirma-ex-pgr-claudio-fonteles.shtml": 454.7
+    "https://www1.folha.uol.com.br/poder/2026/09/e-a-maior-crise-do-stf-gonet-deveria-se-afastar-do-caso-master-e-moraes-precisa-ser-investigado-afirma-ex-pgr-claudio-fonteles.shtml": 454.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-38-e-flavio-bolsonaro-33-no-1o-turno-cury-vai-a-8.shtml": 544.9
   }
 }
