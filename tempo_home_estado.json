@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/encaminhado-com-frequencia",
-      "entrada": "2026-09-07T12:19:05",
-      "local": 5
-    },
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-pega-carona-na-limpa-de-ricardo-couto-no-rio.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/dora-kramer",
       "entrada": "2026-09-07T17:46:41",
-      "local": 1
+      "local": 2
     },
     "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-reune-apoiadores-na-paulista-para-ato-do-7-de-setembro.shtml": {
       "categoria_texto": "Lula",
@@ -106,6 +100,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/fachin-conversa-com-lula-e-indica-que-levara-casos-de-moraes-e-mendonca-ao-plenario-do-stf.shtml": 584.7,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-restringe-nucleo-de-campanha-e-planeja-reforco-apos-se-queixar-de-resultados.shtml": 297.8,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml": 181.3,
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml": 181.3
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml": 181.3,
+    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml": 643.5
   }
 }
