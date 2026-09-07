@@ -12,17 +12,11 @@
       "entrada": "2026-09-07T17:46:41",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-reune-apoiadores-na-paulista-para-ato-do-7-de-setembro.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-09-07T17:46:41",
+      "entrada": "2026-09-07T20:47:56",
       "local": 6
-    },
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "blogs/brasilia-hoje",
-      "entrada": "2026-09-07T17:46:41",
-      "local": 7
     }
   },
   "totais": {
@@ -110,6 +104,8 @@
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/pf-relata-desconfianca-de-mendonca-sobre-seu-diretor-geral-por-proximidade-com-lula.shtml": 807.6,
     "https://www1.folha.uol.com.br/poder/2026/09/cargo-nao-pode-ser-usado-para-beneficio-pessoal-em-nome-da-democracia-diz-lula-sem-citar-moraes.shtml": 944.8,
     "https://www1.folha.uol.com.br/poder/2026/09/fachin-conversa-com-lula-e-indica-que-levara-casos-de-moraes-e-mendonca-ao-plenario-do-stf.shtml": 584.7,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-restringe-nucleo-de-campanha-e-planeja-reforco-apos-se-queixar-de-resultados.shtml": 297.8
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-restringe-nucleo-de-campanha-e-planeja-reforco-apos-se-queixar-de-resultados.shtml": 297.8,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml": 181.3,
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml": 181.3
   }
 }
