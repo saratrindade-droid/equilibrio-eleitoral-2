@@ -4,7 +4,25 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/encaminhado-com-frequencia",
       "entrada": "2026-09-07T12:19:05",
-      "local": 3
+      "local": 5
+    },
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-pega-carona-na-limpa-de-ricardo-couto-no-rio.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-09-07T17:46:41",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-reune-fachin-alcolumbre-e-motta-em-7-de-setembro-com-gritos-do-publico-pelo-fim-da-escala-6x1.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-07T17:46:41",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/manifestantes-em-brasilia-pedem-saida-de-moraes-e-lula-no-7-de-setembro.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "blogs/brasilia-hoje",
+      "entrada": "2026-09-07T17:46:41",
+      "local": 7
     }
   },
   "totais": {
