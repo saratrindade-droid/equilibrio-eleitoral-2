@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-de-lula-vai-recorrer-ao-stf-contra-mendonca.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/monicabergamo",
-      "entrada": "2026-09-08T15:02:56",
-      "local": 9
-    },
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/excesso-de-politica-torna-stf-disfuncional.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/helioschwartsman",
@@ -16,7 +10,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-08T18:34:56",
-      "local": 7
+      "local": 9
     }
   },
   "totais": {
@@ -110,6 +104,7 @@
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/09/quem-ganha-com-a-crise-do-supremo.shtml": 643.5,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-pega-carona-na-limpa-de-ricardo-couto-no-rio.shtml": 730.5,
     "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-reune-apoiadores-na-paulista-para-ato-do-7-de-setembro.shtml": 854.6,
-    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/lula-pagara-o-preco-da-blindagem-a-alexandre-de-moraes.shtml": 757.8
+    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/lula-pagara-o-preco-da-blindagem-a-alexandre-de-moraes.shtml": 757.8,
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-de-lula-vai-recorrer-ao-stf-contra-mendonca.shtml": 380.4
   }
 }
