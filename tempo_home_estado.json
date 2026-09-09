@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-assume-operacao-para-estancar-crise-no-stf-e-atua-para-tentar-isolar-mendonca.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-09T18:44:25",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -102,6 +95,7 @@
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-de-lula-vai-recorrer-ao-stf-contra-mendonca.shtml": 380.4,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-recebe-auxiliares-para-reuniao-de-emergencia-no-palacio-da-alvorada.shtml": 296.2,
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/excesso-de-politica-torna-stf-disfuncional.shtml": 1034.5,
-    "https://www1.folha.uol.com.br/poder/2026/09/mendonca-acirra-crise-institucional-ao-afastar-diretor-da-pf-e-colocar-lula-sob-pressao.shtml": 211.6
+    "https://www1.folha.uol.com.br/poder/2026/09/mendonca-acirra-crise-institucional-ao-afastar-diretor-da-pf-e-colocar-lula-sob-pressao.shtml": 211.6,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-assume-operacao-para-estancar-crise-no-stf-e-atua-para-tentar-isolar-mendonca.shtml": 275.5
   }
 }
