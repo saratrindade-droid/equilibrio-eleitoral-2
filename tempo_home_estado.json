@@ -1,10 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/excesso-de-politica-torna-stf-disfuncional.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/mendonca-acirra-crise-institucional-ao-afastar-diretor-da-pf-e-colocar-lula-sob-pressao.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-09-08T18:34:56",
-      "local": 3
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-09T11:49:23",
+      "local": 7
     }
   },
   "totais": {
@@ -100,6 +100,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-reune-apoiadores-na-paulista-para-ato-do-7-de-setembro.shtml": 854.6,
     "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/09/lula-pagara-o-preco-da-blindagem-a-alexandre-de-moraes.shtml": 757.8,
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/agu-de-lula-vai-recorrer-ao-stf-contra-mendonca.shtml": 380.4,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-recebe-auxiliares-para-reuniao-de-emergencia-no-palacio-da-alvorada.shtml": 296.2
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-recebe-auxiliares-para-reuniao-de-emergencia-no-palacio-da-alvorada.shtml": 296.2,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/excesso-de-politica-torna-stf-disfuncional.shtml": 1034.5
   }
 }
