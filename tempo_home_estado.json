@@ -1,30 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-lidera-em-sp-contra-haddad-e-poderia-vencer-disputa-em-primeiro-turno.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-11T20:15:19",
-      "local": 18
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-35-em-primeiro-turno.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-11T22:39:24",
-      "local": 13
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-46-dos-eleitores.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-11T22:39:24",
-      "local": 14
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-11T22:39:24",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -124,6 +99,10 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-assume-operacao-para-estancar-crise-no-stf-e-atua-para-tentar-isolar-mendonca.shtml": 275.5,
     "https://www1.folha.uol.com.br/poder/2026/09/pt-ve-campanha-de-lula-em-risco-com-crise-no-stf-e-convoca-reuniao-de-emergencia-com-aliados.shtml": 230.0,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-fachin-colocou-um-pouco-de-ordem-na-casa-mas-que-espera-mais-de-presidente-do-stf.shtml": 263.6,
-    "https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-avalia-que-novas-revelacoes-do-master-interromperao-onda-favoravel-de-flavio.shtml": 143.6
+    "https://www1.folha.uol.com.br/colunas/painel/2026/09/campanha-de-lula-avalia-que-novas-revelacoes-do-master-interromperao-onda-favoravel-de-flavio.shtml": 143.6,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-lidera-em-sp-contra-haddad-e-poderia-vencer-disputa-em-primeiro-turno.shtml": 780.6,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-35-em-primeiro-turno.shtml": 636.5,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-46-dos-eleitores.shtml": 636.5,
+    "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml": 636.5
   }
 }
