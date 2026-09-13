@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-sobre-master-que-quem-fez-putaria-vai-ser-desmascarado.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-12T18:19:28",
-      "local": 11
-    },
     "https://www1.folha.uol.com.br/poder/2026/09/fachin-da-24-horas-para-pf-informar-sobre-custodia-e-estado-de-celular-de-vorcaro.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-12T22:35:45",
-      "local": 8
+      "local": 12
     }
   },
   "totais": {
@@ -117,6 +111,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-39-e-flavio-bolsonaro-35-em-primeiro-turno.shtml": 636.5,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-flavio-bolsonaro-e-lula-sao-rejeitados-por-46-dos-eleitores.shtml": 636.5,
     "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-que-dados-de-celular-de-vorcaro-estao-intocados-e-nao-atende-zanin.shtml": 636.5,
-    "https://www1.folha.uol.com.br/poder/2026/09/gilmar-repete-zanin-e-pede-acesso-a-celular-de-vorcaro.shtml": 135.3
+    "https://www1.folha.uol.com.br/poder/2026/09/gilmar-repete-zanin-e-pede-acesso-a-celular-de-vorcaro.shtml": 135.3,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-sobre-master-que-quem-fez-putaria-vai-ser-desmascarado.shtml": 949.1
   }
 }
