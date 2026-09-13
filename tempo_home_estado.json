@@ -4,13 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-13T17:29:33",
-      "local": 9
+      "local": 7
     },
     "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-ser-contra-abrir-integra-do-celular-de-vorcaro-e-pede-que-fachin-apure-suposta-coacao-na-pf.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-13T19:42:19",
-      "local": 10
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-13T21:44:41",
+      "local": 6
     }
   },
   "totais": {
