@@ -4,12 +4,6 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-14T14:00:48",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-14T19:15:36",
       "local": 9
     }
   },
@@ -122,6 +116,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/fachin-da-24-horas-para-pf-informar-sobre-custodia-e-estado-de-celular-de-vorcaro.shtml": 946.7,
     "https://www1.folha.uol.com.br/poder/2026/09/pf-responde-a-fachin-e-diz-que-pode-enviar-dados-integrais-do-celular-de-vorcaro-a-ministros-do-stf.shtml": 1231.3,
     "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-ser-contra-abrir-integra-do-celular-de-vorcaro-e-pede-que-fachin-apure-suposta-coacao-na-pf.shtml": 1098.5,
-    "https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml": 976.1
+    "https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml": 976.1,
+    "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml": 198.6
   }
 }
