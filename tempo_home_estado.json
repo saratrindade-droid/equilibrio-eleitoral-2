@@ -1,5 +1,12 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "negocios/2026",
+      "entrada": "2026-09-15T05:40:46",
+      "local": 1
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
