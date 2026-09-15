@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "negocios/2026",
-      "entrada": "2026-09-15T05:40:46",
-      "local": 1
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -118,6 +111,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/mendonca-diz-ser-contra-abrir-integra-do-celular-de-vorcaro-e-pede-que-fachin-apure-suposta-coacao-na-pf.shtml": 1098.5,
     "https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml": 976.1,
     "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml": 198.6,
-    "https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml": 651.7
+    "https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml": 651.7,
+    "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": 572.7
   }
 }
