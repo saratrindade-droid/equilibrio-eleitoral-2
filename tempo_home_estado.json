@@ -4,19 +4,13 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-16T18:20:24",
-      "local": 7
+      "local": 11
     },
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-acesso-de-ministros-do-stf-a-celular-de-vorcaro-e-diz-que-pais-sabera-quem-foi-fazer-suruba.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-16T18:20:24",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-16T18:20:24",
-      "local": 9
+      "local": 12
     }
   },
   "totais": {
@@ -134,6 +128,7 @@
     "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": 572.7,
     "https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-defendem-que-lula-cite-ministros-diretamente-ao-cobrar-investigacoes.shtml": 279.7,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cobra-stf-por-perda-de-credibilidade-e-acusa-mendonca-de-vazamento-seletivo-no-caso-master.shtml": 279.7,
-    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml": 1268.7
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml": 1268.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml": 326.2
   }
 }
