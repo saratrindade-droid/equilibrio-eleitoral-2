@@ -5,6 +5,24 @@
       "editoria_texto": "colunas/marilizpereirajorge",
       "entrada": "2026-09-16T00:19:55",
       "local": 2
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-16T18:20:24",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-acesso-de-ministros-do-stf-a-celular-de-vorcaro-e-diz-que-pais-sabera-quem-foi-fazer-suruba.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-16T18:20:24",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-16T18:20:24",
+      "local": 8
     }
   },
   "totais": {
