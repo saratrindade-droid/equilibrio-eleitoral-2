@@ -1,22 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-defendem-que-lula-cite-ministros-diretamente-ao-cobrar-investigacoes.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/painel",
-      "entrada": "2026-09-16T00:19:55",
-      "local": 3
-    },
     "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/marilizpereirajorge",
       "entrada": "2026-09-16T00:19:55",
-      "local": 4
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-cobra-stf-por-perda-de-credibilidade-e-acusa-mendonca-de-vazamento-seletivo-no-caso-master.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-16T00:19:55",
-      "local": 9
+      "local": 3
     }
   },
   "totais": {
@@ -131,6 +119,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/zanin-ordena-acesso-a-integra-de-celular-de-vorcaro-e-diz-nao-haver-hierarquia-entre-ministros-do-stf.shtml": 976.1,
     "https://www1.folha.uol.com.br/poder/2026/09/haddad-diz-que-nunca-esteve-com-vorcaro-e-vincula-ex-banqueiro-a-tarcisio-e-aliados-de-bolsonaro.shtml": 198.6,
     "https://www1.folha.uol.com.br/poder/2026/09/integra-de-celular-de-vorcaro-chega-a-gabinete-de-zanin-que-analisa-conteudo.shtml": 651.7,
-    "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": 572.7
+    "https://c-level.folha.uol.com.br/negocios/2026/09/gestao-lula-perdoa-r-12-bi-em-juros-de-acordos-com-empresas-que-confessaram-corrupcao-na-lava-jato.shtml": 572.7,
+    "https://www1.folha.uol.com.br/colunas/painel/2026/09/governistas-defendem-que-lula-cite-ministros-diretamente-ao-cobrar-investigacoes.shtml": 279.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-cobra-stf-por-perda-de-credibilidade-e-acusa-mendonca-de-vazamento-seletivo-no-caso-master.shtml": 279.7
   }
 }
