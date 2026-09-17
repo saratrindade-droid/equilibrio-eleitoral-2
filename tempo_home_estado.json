@@ -4,19 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-09-17T17:04:13",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-17T22:53:58",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/09/reajuste-do-bolsa-familia-divide-analistas-sobre-impacto-fiscal.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "blogs/brasilia-hoje",
-      "entrada": "2026-09-17T20:16:51",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-09-17T20:16:51",
-      "local": 9
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-09-17T22:53:58",
+      "local": 14
     }
   },
   "totais": {
@@ -139,6 +139,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml": 447.5,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-acesso-de-ministros-do-stf-a-celular-de-vorcaro-e-diz-que-pais-sabera-quem-foi-fazer-suruba.shtml": 1072.5,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-flavio-dividas-impagaveis-e-o-ciclone-economico-previsto-para-2027.shtml": 617.8,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-a-aliados-que-sessao-do-stf-foi-um-show-de-horrores-e-que-vai-procurar-fachin-para-conversa.shtml": 291.3
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-a-aliados-que-sessao-do-stf-foi-um-show-de-horrores-e-que-vai-procurar-fachin-para-conversa.shtml": 291.3,
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml": 157.1,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": 157.1
   }
 }
