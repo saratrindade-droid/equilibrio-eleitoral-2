@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-acesso-de-ministros-do-stf-a-celular-de-vorcaro-e-diz-que-pais-sabera-quem-foi-fazer-suruba.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-16T18:20:24",
-      "local": 13
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-flavio-dividas-impagaveis-e-o-ciclone-economico-previsto-para-2027.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-09-17T06:46:27",
-      "local": 4
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-a-aliados-que-sessao-do-stf-foi-um-show-de-horrores-e-que-vai-procurar-fachin-para-conversa.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-17T12:12:54",
+      "local": 9
     }
   },
   "totais": {
@@ -130,6 +130,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cobra-stf-por-perda-de-credibilidade-e-acusa-mendonca-de-vazamento-seletivo-no-caso-master.shtml": 279.7,
     "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/torcida-petista-por-moraes-custara-a-eleicao-de-lula.shtml": 1268.7,
     "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-endurece-criticas-e-diz-que-sem-ministros-do-lula-no-supremo-a-democracia-vive.shtml": 326.2,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml": 447.5
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-flavio-tem-bronca-com-moraes-por-julgamento-do-81-e-que-ministro-prestou-servico-a-democracia.shtml": 447.5,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-acesso-de-ministros-do-stf-a-celular-de-vorcaro-e-diz-que-pais-sabera-quem-foi-fazer-suruba.shtml": 1072.5
   }
 }
