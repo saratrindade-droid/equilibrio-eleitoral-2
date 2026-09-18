@@ -1,22 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-17T22:53:58",
-      "local": 13
-    },
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-09-18T01:01:16",
-      "local": 2
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-18T05:49:58",
-      "local": 12
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-09-18T10:07:56",
+      "local": 7
     }
   },
   "totais": {
@@ -141,10 +129,12 @@
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-flavio-dividas-impagaveis-e-o-ciclone-economico-previsto-para-2027.shtml": 617.8,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-a-aliados-que-sessao-do-stf-foi-um-show-de-horrores-e-que-vai-procurar-fachin-para-conversa.shtml": 291.3,
     "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/ze-trovao-aliado-de-flavio-bolsonaro-vai-ao-tse-contra-reajuste-no-bolsa-familia-e-mendonca-sera-relator.shtml": 157.1,
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": 157.1,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": 703.8,
     "https://www1.folha.uol.com.br/mercado/2026/09/lula-anuncia-reajuste-do-bolsa-familia-menos-de-tres-semanas-antes-do-primeiro-turno.shtml": 765.8,
     "https://www1.folha.uol.com.br/mercado/2026/09/reajuste-do-bolsa-familia-divide-analistas-sobre-impacto-fiscal.shtml": 416.0,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml": 288.7,
-    "https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml": 288.7
+    "https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml": 288.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": 674.0,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": 258.0
   }
 }
