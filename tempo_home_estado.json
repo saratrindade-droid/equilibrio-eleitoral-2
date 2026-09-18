@@ -4,7 +4,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-09-17T17:04:13",
-      "local": 9
+      "local": 11
     },
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": {
       "categoria_texto": "Lula",
@@ -16,7 +16,25 @@
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-09-17T22:53:58",
-      "local": 14
+      "local": 15
+    },
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/a-materializacao-do-absurdo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/helioschwartsman",
+      "entrada": "2026-09-18T01:01:16",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-18T01:01:16",
+      "local": 10
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-09-18T01:01:16",
+      "local": 13
     }
   },
   "totais": {
