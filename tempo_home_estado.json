@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/ministro-do-stj-disse-estar-sempre-a-disposicao-de-vorcaro-indicam-mensagens.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-18T17:50:05",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-18T17:50:05",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -142,6 +129,8 @@
     "https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml": 288.7,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": 674.0,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": 258.0,
-    "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": 262.9
+    "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": 262.9,
+    "https://www1.folha.uol.com.br/poder/2026/09/ministro-do-stj-disse-estar-sempre-a-disposicao-de-vorcaro-indicam-mensagens.shtml": 133.3,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml": 133.3
   }
 }
