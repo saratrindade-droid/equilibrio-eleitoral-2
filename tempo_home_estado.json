@@ -1,10 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-09-18T10:07:56",
-      "local": 7
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-18T14:30:51",
+      "local": 9
     }
   },
   "totais": {
@@ -135,6 +135,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-53-entre-beneficiarios-do-bolsa-familia-e-flavio-bolsonaro-28.shtml": 288.7,
     "https://www1.folha.uol.com.br/mercado/2026/09/flavio-bolsonaro-diz-que-governo-lula-aumenta-bolsa-familia-por-desespero.shtml": 288.7,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-e-flavio-bolsonaro-empatam-em-1o-e-2o-turnos.shtml": 674.0,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": 258.0
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": 258.0,
+    "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": 262.9
   }
 }
