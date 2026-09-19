@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-mendes-decide-que-reajuste-de-lula-ao-bolsa-familia-nao-afronta-a-lei-eleitoral.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/monicabergamo",
-      "entrada": "2026-09-18T22:32:12",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-reajustou-bolsa-familia-apos-reuniao-com-mulheres-e-criticas-a-custo-de-vida-na-campanha.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-09-18T22:32:12",
-      "local": 10
+      "entrada": "2026-09-19T00:35:29",
+      "local": 8
     }
   },
   "totais": {
@@ -144,6 +138,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-elo-de-vorcaro-com-ministros-do-stf-deve-ser-analisado-de-forma-conjunta.shtml": 258.0,
     "https://www1.folha.uol.com.br/mercado/2026/09/pacote-de-lula-em-ano-eleitoral-ja-mobiliza-quase-r-200-bilhoes-em-bondades.shtml": 262.9,
     "https://www1.folha.uol.com.br/poder/2026/09/ministro-do-stj-disse-estar-sempre-a-disposicao-de-vorcaro-indicam-mensagens.shtml": 133.3,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml": 133.3
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-crise-na-stf-respinga-na-eleicao-e-culpa-bolsonaro-pelo-caso-master.shtml": 133.3,
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-mendes-decide-que-reajuste-de-lula-ao-bolsa-familia-nao-afronta-a-lei-eleitoral.shtml": 123.3,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-reajustou-bolsa-familia-apos-reuniao-com-mulheres-e-criticas-a-custo-de-vida-na-campanha.shtml": 123.3
   }
 }
