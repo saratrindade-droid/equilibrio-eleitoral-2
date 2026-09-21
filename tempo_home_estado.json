@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-09-20T17:47:07",
-      "local": 6
-    },
-    "https://c-level.folha.uol.com.br/financas/2026/09/governo-do-distrito-federal-aciona-stf-e-diz-que-resistencia-de-lula-a-ajudar-brb-e-decisao-politica.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "financas/2026",
-      "entrada": "2026-09-20T17:47:07",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -149,6 +136,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-reajustou-bolsa-familia-apos-reuniao-com-mulheres-e-criticas-a-custo-de-vida-na-campanha.shtml": 123.3,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-38-citam-lula-como-prejudicado-por-crise-no-stf-e-31-apontam-flavio-bolsonaro.shtml": 529.6,
     "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-diz-que-gabinete-nao-conseguiu-acessar-conteudo-de-celular-de-vorcaro-e-pede-ajuda-a-pf.shtml": 119.8,
-    "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-atravessou-a-praca-dos-tres-poderes-para-entrar-na-crise-do-stf.shtml": 371.3
+    "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-atravessou-a-praca-dos-tres-poderes-para-entrar-na-crise-do-stf.shtml": 371.3,
+    "https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml": 997.9,
+    "https://c-level.folha.uol.com.br/financas/2026/09/governo-do-distrito-federal-aciona-stf-e-diz-que-resistencia-de-lula-a-ajudar-brb-e-decisao-politica.shtml": 997.9
   }
 }
