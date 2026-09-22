@@ -4,25 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/dora-kramer",
       "entrada": "2026-09-22T17:02:57",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/lula-devera-agir-contra-as-bets.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/helioschwartsman",
+      "entrada": "2026-09-22T22:56:30",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/mundo/2026/09/na-onu-lula-critica-ingerencia-externa-nas-eleicoes-sem-mencionar-eua.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "mundo/2026",
-      "entrada": "2026-09-22T17:02:57",
-      "local": 11
-    },
-    "https://www1.folha.uol.com.br/mundo/2026/09/leia-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mundo/2026",
-      "entrada": "2026-09-22T17:02:57",
-      "local": 15
-    },
-    "https://www1.folha.uol.com.br/mundo/2026/09/marco-rubio-se-aproxima-e-aponta-para-lula-na-onu-mas-esbarra-em-mauro-vieira-veja-video.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mundo/2026",
-      "entrada": "2026-09-22T20:09:04",
-      "local": 13
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-22T22:56:30",
+      "local": 6
     }
   },
   "totais": {
@@ -164,6 +158,9 @@
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-atravessou-a-praca-dos-tres-poderes-para-entrar-na-crise-do-stf.shtml": 371.3,
     "https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml": 997.9,
     "https://c-level.folha.uol.com.br/financas/2026/09/governo-do-distrito-federal-aciona-stf-e-diz-que-resistencia-de-lula-a-ajudar-brb-e-decisao-politica.shtml": 997.9,
-    "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-lula-tera-de-assumir-a-ferrovia-malha-oeste-apos-impasse-com-concessionaria.shtml": 287.1
+    "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-lula-tera-de-assumir-a-ferrovia-malha-oeste-apos-impasse-com-concessionaria.shtml": 287.1,
+    "https://www1.folha.uol.com.br/mundo/2026/09/na-onu-lula-critica-ingerencia-externa-nas-eleicoes-sem-mencionar-eua.shtml": 353.6,
+    "https://www1.folha.uol.com.br/mundo/2026/09/leia-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.shtml": 353.6,
+    "https://www1.folha.uol.com.br/mundo/2026/09/marco-rubio-se-aproxima-e-aponta-para-lula-na-onu-mas-esbarra-em-mauro-vieira-veja-video.shtml": 167.4
   }
 }
