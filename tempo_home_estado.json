@@ -1,10 +1,22 @@
 {
   "ativos": {
-    "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-lula-tera-de-assumir-a-ferrovia-malha-oeste-apos-impasse-com-concessionaria.shtml": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-prova-do-proprio-veneno-no-incentivo-ao-antagonismo-politico.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "infraestrutura/2026",
-      "entrada": "2026-09-22T12:15:49",
-      "local": 6
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-09-22T17:02:57",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/mundo/2026/09/na-onu-lula-critica-ingerencia-externa-nas-eleicoes-sem-mencionar-eua.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mundo/2026",
+      "entrada": "2026-09-22T17:02:57",
+      "local": 11
+    },
+    "https://www1.folha.uol.com.br/mundo/2026/09/leia-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mundo/2026",
+      "entrada": "2026-09-22T17:02:57",
+      "local": 15
     }
   },
   "totais": {
@@ -145,6 +157,7 @@
     "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/mendonca-diz-que-gabinete-nao-conseguiu-acessar-conteudo-de-celular-de-vorcaro-e-pede-ajuda-a-pf.shtml": 119.8,
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-atravessou-a-praca-dos-tres-poderes-para-entrar-na-crise-do-stf.shtml": 371.3,
     "https://www1.folha.uol.com.br/mercado/2026/09/governo-lula-demora-mais-para-conceder-garantia-a-emprestimos-pleiteados-por-opositores.shtml": 997.9,
-    "https://c-level.folha.uol.com.br/financas/2026/09/governo-do-distrito-federal-aciona-stf-e-diz-que-resistencia-de-lula-a-ajudar-brb-e-decisao-politica.shtml": 997.9
+    "https://c-level.folha.uol.com.br/financas/2026/09/governo-do-distrito-federal-aciona-stf-e-diz-que-resistencia-de-lula-a-ajudar-brb-e-decisao-politica.shtml": 997.9,
+    "https://c-level.folha.uol.com.br/infraestrutura/2026/09/governo-lula-tera-de-assumir-a-ferrovia-malha-oeste-apos-impasse-com-concessionaria.shtml": 287.1
   }
 }
