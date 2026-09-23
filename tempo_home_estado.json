@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-prova-do-proprio-veneno-no-incentivo-ao-antagonismo-politico.shtml": {
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/culpa-pelas-bets-tem-as-digitais-de-lula-e-de-bolsonaro.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-09-22T17:02:57",
+      "editoria_texto": "colunas/marilizpereirajorge",
+      "entrada": "2026-09-23T11:36:19",
       "local": 2
-    },
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-aposta-tarde-contra-desgraca-das-bets-e-da-vida-cara-para-o-povo-miudo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-09-23T01:20:32",
-      "local": 1
     }
   },
   "totais": {
@@ -157,6 +151,8 @@
     "https://www1.folha.uol.com.br/mundo/2026/09/leia-integra-do-discurso-de-lula-na-assembleia-geral-da-onu.shtml": 353.6,
     "https://www1.folha.uol.com.br/mundo/2026/09/marco-rubio-se-aproxima-e-aponta-para-lula-na-onu-mas-esbarra-em-mauro-vieira-veja-video.shtml": 167.4,
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/lula-devera-agir-contra-as-bets.shtml": 144.0,
-    "https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml": 144.0
+    "https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml": 144.0,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-prova-do-proprio-veneno-no-incentivo-ao-antagonismo-politico.shtml": 1113.4,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-aposta-tarde-contra-desgraca-das-bets-e-da-vida-cara-para-o-povo-miudo.shtml": 615.8
   }
 }
