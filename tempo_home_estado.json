@@ -1,10 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/lobista-amiga-de-lulinha-pagou-integrantes-de-ministerio-que-fechou-secretario-do-governo-lula-diz-pf.shtml": {
+    "https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/09/o-brasil-de-sempre-nas-nacoes-unidas.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-23T15:33:47",
-      "local": 6
+      "editoria_texto": "colunas/maria-herminia-tavares",
+      "entrada": "2026-09-23T22:20:36",
+      "local": 2
     }
   },
   "totais": {
@@ -154,6 +154,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/47-das-mulheres-chefes-de-familia-dizem-votar-em-lula-27-em-flavio-diz-datafolha.shtml": 144.0,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-prova-do-proprio-veneno-no-incentivo-ao-antagonismo-politico.shtml": 1113.4,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/09/lula-aposta-tarde-contra-desgraca-das-bets-e-da-vida-cara-para-o-povo-miudo.shtml": 615.8,
-    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/culpa-pelas-bets-tem-as-digitais-de-lula-e-de-bolsonaro.shtml": 456.6
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/09/culpa-pelas-bets-tem-as-digitais-de-lula-e-de-bolsonaro.shtml": 456.6,
+    "https://www1.folha.uol.com.br/poder/2026/09/lobista-amiga-de-lulinha-pagou-integrantes-de-ministerio-que-fechou-secretario-do-governo-lula-diz-pf.shtml": 406.8
   }
 }
