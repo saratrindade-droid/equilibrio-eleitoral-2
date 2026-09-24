@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-24T10:23:02",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-24T15:21:24",
-      "local": 12
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -164,6 +151,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lobista-amiga-de-lulinha-pagou-integrantes-de-ministerio-que-fechou-secretario-do-governo-lula-diz-pf.shtml": 406.8,
     "https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/09/o-brasil-de-sempre-nas-nacoes-unidas.shtml": 722.4,
     "https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-de-propaganda-na-tv-flavio-se-diz-alvo-de-ataques-e-lula-mira-governo-bolsonaro.shtml": 585.2,
-    "https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-aciona-stf-e-tse-por-possivel-interferencia-dos-eua-nas-eleicoes.shtml": 585.2
+    "https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-aciona-stf-e-tse-por-possivel-interferencia-dos-eua-nas-eleicoes.shtml": 585.2,
+    "https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml": 537.7,
+    "https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml": 239.3
   }
 }
