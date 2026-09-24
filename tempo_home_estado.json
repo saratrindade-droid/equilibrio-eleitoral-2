@@ -1,5 +1,24 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/colunas/laura-muller/2026/09/a-pilula-do-dia-seguinte-funciona-mesmo-ou-e-lenda.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/laura-muller",
+      "entrada": "2026-09-24T22:34:20",
+      "local": 5
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-40-e-flavio-bolsonaro-36-em-1o-turno-rivais-empatam-em-2o-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-24T22:34:20",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml": {
+      "categoria_texto": "Haddad",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-24T22:34:20",
+      "local": 11
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
