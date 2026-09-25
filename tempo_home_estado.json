@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-25T10:29:52",
-      "local": 6
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -165,6 +158,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml": 132.4,
     "https://www1.folha.uol.com.br/colunas/laura-muller/2026/09/a-pilula-do-dia-seguinte-funciona-mesmo-ou-e-lenda.shtml": 715.5,
     "https://c-level.folha.uol.com.br/negocios/2026/09/lula-pretende-anunciar-proibicao-de-bets-nesta-sexta-em-sp.shtml": 583.1,
-    "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/bets-notificam-globo-band-e-redetv-sobre-rescisao-contratual-caso-lula-vete-apostas.shtml": 583.1
+    "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/bets-notificam-globo-band-e-redetv-sobre-rescisao-contratual-caso-lula-vete-apostas.shtml": 583.1,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml": 539.3
   }
 }
