@@ -6,16 +6,16 @@
       "entrada": "2026-09-24T22:34:20",
       "local": 5
     },
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-40-e-flavio-bolsonaro-36-em-1o-turno-rivais-empatam-em-2o-turno.shtml": {
+    "https://c-level.folha.uol.com.br/negocios/2026/09/lula-pretende-anunciar-proibicao-de-bets-nesta-sexta-em-sp.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-24T22:34:20",
-      "local": 6
+      "editoria_texto": "negocios/2026",
+      "entrada": "2026-09-25T00:46:44",
+      "local": 9
     },
-    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml": {
-      "categoria_texto": "Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-24T22:34:20",
+    "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/bets-notificam-globo-band-e-redetv-sobre-rescisao-contratual-caso-lula-vete-apostas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunistas/outro-canal",
+      "entrada": "2026-09-25T00:46:44",
       "local": 11
     }
   },
@@ -172,6 +172,8 @@
     "https://www1.folha.uol.com.br/poder/2026/09/na-reta-final-de-propaganda-na-tv-flavio-se-diz-alvo-de-ataques-e-lula-mira-governo-bolsonaro.shtml": 585.2,
     "https://www1.folha.uol.com.br/poder/2026/09/campanha-de-lula-aciona-stf-e-tse-por-possivel-interferencia-dos-eua-nas-eleicoes.shtml": 585.2,
     "https://www1.folha.uol.com.br/poder/2026/09/avanco-de-flavio-bolsonaro-faz-lula-reavaliar-estrategia-e-presidente-deve-ir-a-debate-da-globo.shtml": 537.7,
-    "https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml": 239.3
+    "https://www1.folha.uol.com.br/poder/2026/09/ato-de-lula-com-artistas-no-rj-tem-apelos-contra-bets-ataque-a-trump-e-vaia-a-aliado.shtml": 239.3,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-lula-tem-40-e-flavio-bolsonaro-36-em-1o-turno-rivais-empatam-em-2o-turno.shtml": 132.4,
+    "https://www1.folha.uol.com.br/poder/2026/09/datafolha-tarcisio-tem-50-contra-30-de-haddad-e-poderia-vencer-em-1o-turno-em-sp.shtml": 132.4
   }
 }
