@@ -1,10 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/dois-candidatos-diante-do-mundo.shtml": {
+    "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-errou-em-2023.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/demetriomagnoli",
-      "entrada": "2026-09-26T23:47:14",
-      "local": 2
+      "editoria_texto": "colunas/eliogaspari",
+      "entrada": "2026-09-27T07:39:21",
+      "local": 4
     }
   },
   "totais": {
@@ -168,6 +168,7 @@
     "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/bets-notificam-globo-band-e-redetv-sobre-rescisao-contratual-caso-lula-vete-apostas.shtml": 583.1,
     "https://www1.folha.uol.com.br/poder/2026/09/datafolha-campanha-de-lula-ve-alivio-e-equipe-de-flavio-bolsonaro-mantem-aposta-em-voto-util.shtml": 539.3,
     "https://www1.folha.uol.com.br/mercado/2026/09/lula-veta-bets-a-nove-dias-das-eleicoes-e-contraria-medidas-da-propria-gestao.shtml": 750.5,
-    "https://www1.folha.uol.com.br/colunas/painel/2026/09/bets-viram-as-vilas-da-eleicao-e-alvo-facil-para-lula-veja-video.shtml": 750.5
+    "https://www1.folha.uol.com.br/colunas/painel/2026/09/bets-viram-as-vilas-da-eleicao-e-alvo-facil-para-lula-veja-video.shtml": 750.5,
+    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/dois-candidatos-diante-do-mundo.shtml": 472.1
   }
 }
