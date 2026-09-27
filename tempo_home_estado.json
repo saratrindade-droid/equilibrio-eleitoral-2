@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-27T17:49:59",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -170,6 +163,7 @@
     "https://www1.folha.uol.com.br/mercado/2026/09/lula-veta-bets-a-nove-dias-das-eleicoes-e-contraria-medidas-da-propria-gestao.shtml": 750.5,
     "https://www1.folha.uol.com.br/colunas/painel/2026/09/bets-viram-as-vilas-da-eleicao-e-alvo-facil-para-lula-veja-video.shtml": 750.5,
     "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/dois-candidatos-diante-do-mundo.shtml": 472.1,
-    "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-errou-em-2023.shtml": 610.6
+    "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-errou-em-2023.shtml": 610.6,
+    "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": 160.9
   }
 }
