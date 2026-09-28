@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-09-28T07:46:32",
-      "local": 10
-    },
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-e-o-pt-nao-ouviram-o-bom-conselho-da-autocritica.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/dora-kramer",
@@ -177,6 +171,7 @@
     "https://www1.folha.uol.com.br/colunas/painel/2026/09/bets-viram-as-vilas-da-eleicao-e-alvo-facil-para-lula-veja-video.shtml": 750.5,
     "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/dois-candidatos-diante-do-mundo.shtml": 472.1,
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-errou-em-2023.shtml": 610.6,
-    "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": 160.9
+    "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": 160.9,
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml": 849.3
   }
 }
