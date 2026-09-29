@@ -1,10 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-e-o-pt-nao-ouviram-o-bom-conselho-da-autocritica.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-09-28T16:04:53",
-      "local": 2
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-29T14:17:35",
+      "local": 10
     }
   },
   "totais": {
@@ -172,6 +172,7 @@
     "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/09/dois-candidatos-diante-do-mundo.shtml": 472.1,
     "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/lula-errou-em-2023.shtml": 610.6,
     "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": 160.9,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml": 849.3
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml": 849.3,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-e-o-pt-nao-ouviram-o-bom-conselho-da-autocritica.shtml": 1332.7
   }
 }
