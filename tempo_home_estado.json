@@ -4,13 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/helioschwartsman",
       "entrada": "2026-09-29T19:29:09",
-      "local": 1
+      "local": 2
     },
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-29T19:29:09",
       "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-09-29T23:08:49",
+      "local": 10
     }
   },
   "totais": {
