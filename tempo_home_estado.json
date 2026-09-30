@@ -6,11 +6,17 @@
       "entrada": "2026-09-30T08:29:59",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/09/caso-nossa-senhora-faz-lula-levar-santa-ao-palanque-apos-criticar-mistura-de-politica-com-religiao.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-09-30T08:29:59",
-      "local": 8
+      "entrada": "2026-09-30T15:13:32",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/polemica-com-nossa-senhora-aparecida-desgasta-lula-e-flavio-nas-redes-diz-levantamento.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/monicabergamo",
+      "entrada": "2026-09-30T15:13:32",
+      "local": 10
     }
   },
   "totais": {
@@ -183,6 +189,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml": 311.6,
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/o-genio-das-eleicoes.shtml": 397.9,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml": 780.8,
-    "https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml": 561.2
+    "https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml": 561.2,
+    "https://www1.folha.uol.com.br/poder/2026/09/entre-lula-e-flavio-brasil-da-as-costas-ao-futuro-e-renan-e-candidato-mais-adequado-diz-the-economist.shtml": 403.6
   }
 }
