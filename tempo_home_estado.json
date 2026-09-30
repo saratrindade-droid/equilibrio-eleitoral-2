@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/o-genio-das-eleicoes.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-09-29T19:29:09",
-      "local": 2
-    },
     "https://www1.folha.uol.com.br/poder/2026/09/lula-cita-noticia-falsa-e-diz-que-enquanto-for-presidente-nossa-senhora-sera-padroeira.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-09-29T19:29:09",
-      "local": 7
+      "local": 8
     },
     "https://www1.folha.uol.com.br/poder/2026/09/fe-une-mulheres-e-46-das-evangelicas-preferem-flavio-bolsonaro-enquanto-26-votam-em-lula.shtml": {
       "categoria_texto": "Lula",
@@ -186,6 +180,7 @@
     "https://www1.folha.uol.com.br/poder/2026/09/em-aracaju-flavio-bolsonaro-diz-que-lula-tem-dois-filhos-lulinha-e-o-tigrinho.shtml": 160.9,
     "https://www1.folha.uol.com.br/poder/2026/09/lula-diz-que-nao-sabe-se-polemica-envolvendo-flavio-bolsonaro-e-nossa-senhora-e-noticia-falsa.shtml": 849.3,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/09/lula-e-o-pt-nao-ouviram-o-bom-conselho-da-autocritica.shtml": 1332.7,
-    "https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml": 311.6
+    "https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml": 311.6,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/09/o-genio-das-eleicoes.shtml": 397.9
   }
 }
