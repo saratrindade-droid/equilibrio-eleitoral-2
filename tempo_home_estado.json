@@ -1,28 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-usa-interferencia-em-debate-para-pedir-voto-de-revolta-e-campanha-de-lula-mira-indecisos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-02T13:15:59",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-que-proibiu-globo-de-exibir-pulpito-vazio-ja-declarou-voto-em-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-02T13:15:59",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-02T13:15:59",
-      "local": 11
-    },
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entrevista-de-lula-no-flow-ja-foi-vista-por-10-milhoes-de-pessoas-e-live-de-flavio-por-5-milhoes.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/monicabergamo",
       "entrada": "2026-10-02T13:15:59",
-      "local": 12
+      "local": 8
     }
   },
   "totais": {
@@ -204,6 +186,9 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-modelo-de-debate-da-globo-para-justificar-ausencia-em-confronto.shtml": 739.7,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-40-em-votos-validos-no-1o-turno.shtml": 739.7,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-e-lula-seguem-sendo-os-mais-rejeitados-com-45-cada.shtml": 739.7,
-    "https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml": 385.7
+    "https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml": 385.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-usa-interferencia-em-debate-para-pedir-voto-de-revolta-e-campanha-de-lula-mira-indecisos.shtml": 315.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-que-proibiu-globo-de-exibir-pulpito-vazio-ja-declarou-voto-em-lula.shtml": 315.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml": 315.4
   }
 }
