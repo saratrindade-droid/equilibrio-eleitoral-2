@@ -1,5 +1,24 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-modelo-de-debate-da-globo-para-justificar-ausencia-em-confronto.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T00:56:15",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-40-em-votos-validos-no-1o-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T00:56:15",
+      "local": 13
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-e-lula-seguem-sendo-os-mais-rejeitados-com-45-cada.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T00:56:15",
+      "local": 14
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
