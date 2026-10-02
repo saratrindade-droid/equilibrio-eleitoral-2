@@ -4,7 +4,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-02T00:56:15",
-      "local": 9
+      "local": 8
     },
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-40-em-votos-validos-no-1o-turno.shtml": {
       "categoria_texto": "Lula",
@@ -17,6 +17,12 @@
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-02T00:56:15",
       "local": 14
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T06:50:17",
+      "local": 10
     }
   },
   "totais": {
