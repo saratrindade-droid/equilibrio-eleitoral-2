@@ -1,9 +1,15 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entrevista-de-lula-no-flow-ja-foi-vista-por-10-milhoes-de-pessoas-e-live-de-flavio-por-5-milhoes.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-em-mg-e-flavio-no-rj-no-1o-turno-rivais-estao-empatados-em-sp.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/monicabergamo",
-      "entrada": "2026-10-02T13:15:59",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T22:30:59",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/desastre-foi-para-a-globo-diz-lula-apos-cancelamento-de-debate.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-02T22:30:59",
       "local": 8
     }
   },
@@ -189,6 +195,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/zema-caiado-e-cury-atribuem-a-lula-cancelamento-do-debate-na-globo.shtml": 385.7,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-usa-interferencia-em-debate-para-pedir-voto-de-revolta-e-campanha-de-lula-mira-indecisos.shtml": 315.4,
     "https://www1.folha.uol.com.br/poder/2026/10/ministra-do-tse-que-proibiu-globo-de-exibir-pulpito-vazio-ja-declarou-voto-em-lula.shtml": 315.4,
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml": 315.4
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-desiste-de-ir-ao-debate-da-globo.shtml": 315.4,
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/entrevista-de-lula-no-flow-ja-foi-vista-por-10-milhoes-de-pessoas-e-live-de-flavio-por-5-milhoes.shtml": 555.0
   }
 }
