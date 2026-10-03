@@ -5,6 +5,24 @@
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-03T16:13:15",
       "local": 7
+    },
+    "https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/10/o-incumbente-joga-com-as-brancas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/samuelpessoa",
+      "entrada": "2026-10-03T19:15:46",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/alvo-de-criticas-em-ato-de-lula-nunes-diz-que-campanha-petista-e-de-baixo-nivel.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-10-03T19:15:46",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-reunem-imagens-de-nossa-senhora-a-espera-de-candidato-em-sp.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-03T19:15:46",
+      "local": 9
     }
   },
   "totais": {
