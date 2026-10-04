@@ -1,10 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-recebe-5016-dos-votos-validos-e-ganha-em-milao-flavio-recebe-406.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-estao-no-2o-turno-projeta-datafolha.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-04T20:07:19",
-      "local": 2
+      "entrada": "2026-10-04T23:05:38",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/quarta-derrota-seguida-deixa-futuro-politico-de-haddad-em-aberto.shtml": {
+      "categoria_texto": "Haddad",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-04T23:05:38",
+      "local": 4
     }
   },
   "totais": {
@@ -202,6 +208,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/eleicao-tem-158-milhoes-aptos-a-votar-com-disputa-acirrada-entre-lula-e-flavio-bolsonaro.shtml": 261.8,
     "https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467119": 261.8,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-pesquisa-que-vale-e-a-urna-e-flavio-afirma-estar-confiante-em-vitoria-no-1o-turno.shtml": 184.2,
-    "https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467146": 184.2
+    "https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467146": 184.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-recebe-5016-dos-votos-validos-e-ganha-em-milao-flavio-recebe-406.shtml": 178.3
   }
 }
