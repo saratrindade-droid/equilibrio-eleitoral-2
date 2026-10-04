@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-42-em-votos-validos-na-vespera-do-1o-turno.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/eleicao-tem-158-milhoes-aptos-a-votar-com-disputa-acirrada-entre-lula-e-flavio-bolsonaro.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-03T22:12:02",
+      "entrada": "2026-10-04T12:41:23",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-onda-de-flavio-bolsonaro-se-mantem-e-desafia-lula-ja-no-1o-turno.shtml": {
+    "https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467119": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-04T00:40:43",
-      "local": 7
+      "entrada": "2026-10-04T12:41:23",
+      "local": 8
     }
   },
   "totais": {
@@ -202,6 +202,8 @@
     "https://www1.folha.uol.com.br/poder/2026/10/inicio-de-ato-de-lula-em-sao-paulo-tem-tensao-com-pm-sobre-liberacao-da-avenida-paulista.shtml": 358.8,
     "https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/10/o-incumbente-joga-com-as-brancas.shtml": 176.3,
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/alvo-de-criticas-em-ato-de-lula-nunes-diz-que-campanha-petista-e-de-baixo-nivel.shtml": 176.3,
-    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-reunem-imagens-de-nossa-senhora-a-espera-de-candidato-em-sp.shtml": 176.3
+    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-flavio-bolsonaro-reunem-imagens-de-nossa-senhora-a-espera-de-candidato-em-sp.shtml": 176.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-tem-45-e-flavio-bolsonaro-42-em-votos-validos-na-vespera-do-1o-turno.shtml": 869.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-onda-de-flavio-bolsonaro-se-mantem-e-desafia-lula-ja-no-1o-turno.shtml": 720.7
   }
 }
