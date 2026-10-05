@@ -1,28 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/erros-em-sequencia-e-onda-bolsonarista-encurralam-lula.shtml": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/a-hora-e-a-vez-dos-independentes.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-05T01:56:34",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-fala-que-resultado-inesperado-e-licao-e-ataca-flavio-bolsonaro-por-master-e-ligacoes-tenebrosas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-05T01:56:34",
-      "local": 3
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno-em-eleicao-presidencial.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-05T01:56:34",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-10-05T08:43:03",
       "local": 4
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/tarcisio-derrota-haddad-e-se-reelege-em-sao-paulo-projeta-datafolha.shtml": {
-      "categoria_texto": "Haddad",
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-lidera-onda-bolsonarista-ao-superar-o-proprio-pai-e-ir-ao-2o-turno-em-vantagem-contra-lula.shtml": {
+      "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-05T01:56:34",
+      "entrada": "2026-10-05T08:43:03",
       "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/atritos-e-falhas-marcam-campanha-de-lula-e-lideres-falam-em-mudancas-profundas-para-enfrentar-flavio-no-2o-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-05T08:43:03",
+      "local": 10
     }
   },
   "totais": {
@@ -223,6 +217,10 @@
     "https://aovivo.folha.uol.com.br/poder/2026/10/03/6564-eleicoes-2026-acompanhe-as-principais-noticias-sobre-o-primeiro-turno.shtml#post467146": 184.2,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-recebe-5016-dos-votos-validos-e-ganha-em-milao-flavio-recebe-406.shtml": 178.3,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-estao-no-2o-turno-projeta-datafolha.shtml": 170.9,
-    "https://www1.folha.uol.com.br/poder/2026/10/quarta-derrota-seguida-deixa-futuro-politico-de-haddad-em-aberto.shtml": 170.9
+    "https://www1.folha.uol.com.br/poder/2026/10/quarta-derrota-seguida-deixa-futuro-politico-de-haddad-em-aberto.shtml": 170.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/erros-em-sequencia-e-onda-bolsonarista-encurralam-lula.shtml": 406.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-fala-que-resultado-inesperado-e-licao-e-ataca-flavio-bolsonaro-por-master-e-ligacoes-tenebrosas.shtml": 406.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/diferenca-entre-flavio-e-lula-e-a-menor-da-historia-no-1o-turno-em-eleicao-presidencial.shtml": 406.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/tarcisio-derrota-haddad-e-se-reelege-em-sao-paulo-projeta-datafolha.shtml": 406.5
   }
 }
