@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-miram-9-milhoes-de-votos-de-derrotados-e-8-milhoes-que-nao-votaram-no-nordeste.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-07T06:47:35",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-07T06:47:35",
-      "local": 8
+      "local": 11
     }
   },
   "totais": {
@@ -224,6 +218,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-carregar-promiscuidade-do-stf-na-campanha-e-chama-flavio-bolsonaro-de-cara-do-sistema.shtml": 426.4,
     "https://www1.folha.uol.com.br/mundo/2026/10/ressurgimento-de-bolsonaro-expoe-a-fraqueza-de-lula-diz-jornal-economico-mais-importante-do-mundo.shtml": 271.4,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-a-debates-no-segundo-turno-apos-lula-tambem-sinalizar-presenca.shtml": 210.4,
-    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-buscara-apoio-de-lideres-regionais-do-centrao-apos-flavio-bolsonaro-costurar-com-partidos.shtml": 354.9
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-buscara-apoio-de-lideres-regionais-do-centrao-apos-flavio-bolsonaro-costurar-com-partidos.shtml": 354.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-miram-9-milhoes-de-votos-de-derrotados-e-8-milhoes-que-nao-votaram-no-nordeste.shtml": 786.0
   }
 }
