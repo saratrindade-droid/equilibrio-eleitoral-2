@@ -1,16 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-muda-tom-nas-redes-e-grava-video-em-formato-selfie-apos-1o-turno.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-07T23:59:54",
-      "local": 8
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/imobilismo-ou-estelionato-eleitoral-nos-programas-economicos-de-flavio-e-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-10-08T05:51:29",
-      "local": 2
+      "local": 3
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-emenda-3-dias-de-crise-interna-enquanto-busca-rumo-para-o-2o-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-08T12:30:27",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-libera-propagandas-da-campanha-de-flavio-que-associam-lula-a-moraes-caso-inss-e-cassinos-ilegais.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "blogs/brasilia-hoje",
+      "entrada": "2026-10-08T12:30:27",
+      "local": 11
     }
   },
   "totais": {
@@ -226,6 +232,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-diz-que-vai-a-debates-no-segundo-turno-apos-lula-tambem-sinalizar-presenca.shtml": 210.4,
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-buscara-apoio-de-lideres-regionais-do-centrao-apos-flavio-bolsonaro-costurar-com-partidos.shtml": 354.9,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-miram-9-milhoes-de-votos-de-derrotados-e-8-milhoes-que-nao-votaram-no-nordeste.shtml": 786.0,
-    "https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml": 1032.3
+    "https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml": 1032.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-muda-tom-nas-redes-e-grava-video-em-formato-selfie-apos-1o-turno.shtml": 750.6
   }
 }
