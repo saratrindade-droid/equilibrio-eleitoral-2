@@ -1,22 +1,34 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-campanha-de-flavio-ve-lula-estagnado-e-aliados-do-petista-torcem-por-efeito-aecio.shtml": {
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-que-aconteceu-com-os-jovens.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-09T10:27:48",
-      "local": 6
+      "editoria_texto": "colunas/helioschwartsman",
+      "entrada": "2026-10-09T17:09:06",
+      "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/fa-clubes-de-anitta-a-bts-se-mobilizam-para-ampliar-votos-de-lula-no-2o-turno.shtml": {
+    "https://www1.folha.uol.com.br/colunas/angela-alonso/2026/10/escolha-entre-lula-e-flavio-bolsonaro-e-simples-civilizacao-ou-barbarie.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/angela-alonso",
+      "entrada": "2026-10-09T17:09:06",
+      "local": 3
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-eleicao-no-radar-e-inflacao-acima-do-esperado.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-09T17:09:06",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/nao-houve-frustracao-mas-eleitor-exigiu-mais-de-lula-diz-jeronimo-rodrigues-reeleito-na-bahia.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-09T10:27:48",
+      "entrada": "2026-10-09T17:09:06",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/em-sp-tarcisio-e-nunes-mobilizam-aliados-por-flavio-enquanto-pt-recomeca-do-zero-campanha-de-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-09T17:09:06",
       "local": 9
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-apostou-em-custo-de-vida-e-violencia-na-tv-e-lula-investiu-em-legado-dizem-analistas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-09T10:27:48",
-      "local": 10
     }
   },
   "totais": {
@@ -240,6 +252,9 @@
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/corra-lula-corra.shtml": 928.7,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml": 645.1,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-25-dos-eleitores-de-flavio-bolsonaro-dizem-escolher-candidato-para-derrotar-lula.shtml": 645.1,
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/lula-nao-ganha-mais-eleitores-no-nordeste.shtml": 441.4
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/lula-nao-ganha-mais-eleitores-no-nordeste.shtml": 441.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-campanha-de-flavio-ve-lula-estagnado-e-aliados-do-petista-torcem-por-efeito-aecio.shtml": 401.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/fa-clubes-de-anitta-a-bts-se-mobilizam-para-ampliar-votos-de-lula-no-2o-turno.shtml": 401.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-apostou-em-custo-de-vida-e-violencia-na-tv-e-lula-investiu-em-legado-dizem-analistas.shtml": 401.3
   }
 }
