@@ -1,28 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/corra-lula-corra.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-10-08T18:59:04",
-      "local": 2
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-campanha-de-flavio-ve-lula-estagnado-e-aliados-do-petista-torcem-por-efeito-aecio.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-08T23:42:43",
+      "entrada": "2026-10-09T10:27:48",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-25-dos-eleitores-de-flavio-bolsonaro-dizem-escolher-candidato-para-derrotar-lula.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/fa-clubes-de-anitta-a-bts-se-mobilizam-para-ampliar-votos-de-lula-no-2o-turno.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-08T23:42:43",
-      "local": 10
+      "entrada": "2026-10-09T10:27:48",
+      "local": 9
     },
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/lula-nao-ganha-mais-eleitores-no-nordeste.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-apostou-em-custo-de-vida-e-violencia-na-tv-e-lula-investiu-em-legado-dizem-analistas.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-10-09T03:06:27",
-      "local": 7
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-09T10:27:48",
+      "local": 10
     }
   },
   "totais": {
@@ -242,6 +236,10 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-muda-tom-nas-redes-e-grava-video-em-formato-selfie-apos-1o-turno.shtml": 750.6,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/imobilismo-ou-estelionato-eleitoral-nos-programas-economicos-de-flavio-e-lula.shtml": 787.6,
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-emenda-3-dias-de-crise-interna-enquanto-busca-rumo-para-o-2o-turno.shtml": 388.6,
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-libera-propagandas-da-campanha-de-flavio-que-associam-lula-a-moraes-caso-inss-e-cassinos-ilegais.shtml": 388.6
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-libera-propagandas-da-campanha-de-flavio-que-associam-lula-a-moraes-caso-inss-e-cassinos-ilegais.shtml": 388.6,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/corra-lula-corra.shtml": 928.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml": 645.1,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-25-dos-eleitores-de-flavio-bolsonaro-dizem-escolher-candidato-para-derrotar-lula.shtml": 645.1,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/lula-nao-ganha-mais-eleitores-no-nordeste.shtml": 441.4
   }
 }
