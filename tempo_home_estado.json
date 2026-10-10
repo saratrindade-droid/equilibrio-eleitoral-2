@@ -1,21 +1,27 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-78-consideram-muito-importante-que-flavio-e-lula-participem-de-debates-no-2o-turno.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/resultado-da-eleicao-redefine-fila-de-cotados-ao-stf-com-flavio-bolsonaro-ou-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-10T01:17:02",
+      "entrada": "2026-10-10T13:51:07",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-dramatiza-com-ia-crianca-levando-arma-a-escola-e-flavio-adota-tom-de-eleito-na-tv.shtml": {
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/oliver-stone-afirma-que-filme-sobre-lula-nunca-recebeu-dinheiro-de-vorcaro.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-10T01:17:02",
+      "editoria_texto": "colunas/monicabergamo",
+      "entrada": "2026-10-10T13:51:07",
       "local": 8
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-43-acham-que-vida-seguira-igual-com-lula-eleitor-se-divide-sobre-como-ficara-com-flavio.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/mobilizacao-online-pro-lula-liga-alerta-na-campanha-de-flavio-bolsonaro-que-contra-ataca.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-10T01:17:02",
+      "entrada": "2026-10-10T13:51:07",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/perfis-pro-flavio-no-brasil-e-no-exterior-expuseram-eleitores-de-lula-e-incentivaram-denuncias.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-10T13:51:07",
       "local": 10
     }
   },
@@ -249,6 +255,9 @@
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/o-que-aconteceu-com-os-jovens.shtml": 487.9,
     "https://www1.folha.uol.com.br/colunas/angela-alonso/2026/10/escolha-entre-lula-e-flavio-bolsonaro-e-simples-civilizacao-ou-barbarie.shtml": 487.9,
     "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-queda-com-eleicao-no-radar-e-inflacao-acima-do-esperado.shtml": 487.9,
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-distrito-federal-flavio-tem-54-e-lula-46-em-votos-validos-no-2o-turno.shtml": 360.0
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-no-distrito-federal-flavio-tem-54-e-lula-46-em-votos-validos-no-2o-turno.shtml": 360.0,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-78-consideram-muito-importante-que-flavio-e-lula-participem-de-debates-no-2o-turno.shtml": 754.1,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-dramatiza-com-ia-crianca-levando-arma-a-escola-e-flavio-adota-tom-de-eleito-na-tv.shtml": 754.1,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-43-acham-que-vida-seguira-igual-com-lula-eleitor-se-divide-sobre-como-ficara-com-flavio.shtml": 754.1
   }
 }
