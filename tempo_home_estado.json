@@ -5,6 +5,18 @@
       "editoria_texto": "colunas/samuelpessoa",
       "entrada": "2026-10-11T13:10:07",
       "local": 3
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-atende-pedido-de-flavio-bolsonaro-e-manda-suspender-canal-pro-lula-criado-por-janones.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-11T18:05:01",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-censura-de-kassio-a-canal-de-janones-e-diz-desconfiar-da-justica-eleitoral.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-11T18:05:01",
+      "local": 7
     }
   },
   "totais": {
