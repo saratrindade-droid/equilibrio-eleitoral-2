@@ -1,16 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-censura-de-kassio-a-canal-de-janones-e-diz-desconfiar-da-justica-eleitoral.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/decisoes-de-kassio-contra-lula-e-a-favor-de-flavio-incomodam-ala-do-tse-e-geram-criticas.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-11T18:05:01",
+      "entrada": "2026-10-12T16:40:46",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-recebera-equipes-juridicas-das-campanhas-apos-lula-questionar-decisoes-do-tse-favoraveis-a-flavio-bolsonaro.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "blogs/brasilia-hoje",
+      "entrada": "2026-10-12T16:40:46",
       "local": 8
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-11T21:52:55",
-      "local": 6
+      "entrada": "2026-10-12T16:40:46",
+      "local": 9
     }
   },
   "totais": {
@@ -255,6 +261,8 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-exalta-gasolina-subsidiada-na-eleicao-e-sugere-que-tesouraco-de-flavio-vai-atingir-pobres.shtml": 1143.1,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-exalta-bolsonaro-e-ve-culto-falar-de-voto-lula-mira-gasolina-subsidiada-e-tesouraco-de-rival.shtml": 760.1,
     "https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/10/lula-e-flavio-terao-desafios-distintos-para-governar.shtml": 522.8,
-    "https://www1.folha.uol.com.br/poder/2026/10/kassio-atende-pedido-de-flavio-bolsonaro-e-manda-suspender-canal-pro-lula-criado-por-janones.shtml": 227.9
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-atende-pedido-de-flavio-bolsonaro-e-manda-suspender-canal-pro-lula-criado-por-janones.shtml": 227.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-censura-de-kassio-a-canal-de-janones-e-diz-desconfiar-da-justica-eleitoral.shtml": 1355.8,
+    "https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml": 1127.9
   }
 }
