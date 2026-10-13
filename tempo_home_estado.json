@@ -1,34 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/michael-franca",
-      "entrada": "2026-10-12T23:14:30",
-      "local": 4
-    },
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "blogs/brasilia-hoje",
-      "entrada": "2026-10-13T03:37:23",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/com-esse-congresso-quem-traz-mais-risco-flavio-ou-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/joel-pinheiro-da-fonseca",
-      "entrada": "2026-10-13T11:05:58",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-13T11:05:58",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-13T11:05:58",
-      "local": 10
+      "local": 11
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-do-pt-registra-exercito-do-lula-no-tse-e-kassio-libera-canal.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-13T18:14:49",
+      "local": 6
     }
   },
   "totais": {
@@ -280,6 +262,10 @@
     "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-recebera-equipes-juridicas-das-campanhas-apos-lula-questionar-decisoes-do-tse-favoraveis-a-flavio-bolsonaro.shtml": 393.7,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml": 656.6,
     "https://www1.folha.uol.com.br/poder/2026/10/canal-de-flavio-faz-associacao-falsa-de-cocaina-a-ato-pro-lula-e-usa-falas-do-petista-sem-contexto.shtml": 711.5,
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-acenam-a-catolicos-com-nossa-senhora-apos-polemica-no-primeiro-turno.shtml": 448.6
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-acenam-a-catolicos-com-nossa-senhora-apos-polemica-no-primeiro-turno.shtml": 448.6,
+    "https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml": 1140.3,
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml": 877.4,
+    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/com-esse-congresso-quem-traz-mais-risco-flavio-ou-lula.shtml": 428.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml": 428.9
   }
 }
