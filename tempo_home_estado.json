@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-12T16:40:46",
-      "local": 9
-    },
     "https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/michael-franca",
@@ -16,6 +10,18 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-12T23:14:30",
+      "local": 10
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-e-lula-acenam-a-catolicos-com-nossa-senhora-apos-polemica-no-primeiro-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-13T03:37:23",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "blogs/brasilia-hoje",
+      "entrada": "2026-10-13T03:37:23",
       "local": 8
     }
   },
@@ -265,6 +271,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-critica-censura-de-kassio-a-canal-de-janones-e-diz-desconfiar-da-justica-eleitoral.shtml": 1355.8,
     "https://www1.folha.uol.com.br/poder/2026/10/corregedor-do-tse-derruba-censura-de-kassio-e-libera-canal-pro-lula-criado-por-janones.shtml": 1127.9,
     "https://www1.folha.uol.com.br/poder/2026/10/decisoes-de-kassio-contra-lula-e-a-favor-de-flavio-incomodam-ala-do-tse-e-geram-criticas.shtml": 393.7,
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-recebera-equipes-juridicas-das-campanhas-apos-lula-questionar-decisoes-do-tse-favoraveis-a-flavio-bolsonaro.shtml": 393.7
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/kassio-recebera-equipes-juridicas-das-campanhas-apos-lula-questionar-decisoes-do-tse-favoraveis-a-flavio-bolsonaro.shtml": 393.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-cobra-kassio-e-diz-que-presidente-do-tse-nao-pode-ter-lado.shtml": 656.6
   }
 }
