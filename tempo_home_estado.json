@@ -6,17 +6,11 @@
       "entrada": "2026-10-14T20:55:12",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-14T20:55:12",
-      "local": 11
-    },
     "https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-10-14T20:55:12",
-      "local": 12
+      "local": 7
     }
   },
   "totais": {
@@ -280,6 +274,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml": 650.5,
     "https://www1.folha.uol.com.br/poder/2026/10/em-disputa-por-bandeiras-rivais-flavio-muda-discurso-sobre-6x1-e-lula-faz-aceno-a-empreendedores.shtml": 303.2,
     "https://www1.folha.uol.com.br/mercado/2026/10/oposicao-libera-bancadas-para-votar-pec-do-fim-da-escala-6x1.shtml": 509.8,
-    "https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-divergem-sobre-clt-sindicatos-e-jornada-de-trabalho.shtml": 206.6
+    "https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-divergem-sobre-clt-sindicatos-e-jornada-de-trabalho.shtml": 206.6,
+    "https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml": 169.3
   }
 }
