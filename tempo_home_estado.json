@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/educacao/2026/10/a-12-dias-da-eleicao-lula-promete-pe-de-meia-para-universitarios-ao-custo-inicial-de-r-46-bi-ao-ano.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/10/oposicao-libera-bancadas-para-votar-pec-do-fim-da-escala-6x1.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "educacao/2026",
-      "entrada": "2026-10-14T01:34:54",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-14T12:25:26",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/em-disputa-por-bandeiras-rivais-flavio-muda-discurso-sobre-6x1-e-lula-faz-aceno-a-empreendedores.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-14T01:34:54",
-      "local": 11
+      "entrada": "2026-10-14T12:25:26",
+      "local": 10
     }
   },
   "totais": {
@@ -269,6 +269,8 @@
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml": 428.9,
     "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml": 868.9,
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-do-pt-registra-exercito-do-lula-no-tse-e-kassio-libera-canal.shtml": 440.1,
-    "https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml": 161.2
+    "https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml": 161.2,
+    "https://www1.folha.uol.com.br/educacao/2026/10/a-12-dias-da-eleicao-lula-promete-pe-de-meia-para-universitarios-ao-custo-inicial-de-r-46-bi-ao-ano.shtml": 650.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml": 650.5
   }
 }
