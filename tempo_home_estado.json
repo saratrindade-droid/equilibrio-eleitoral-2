@@ -1,22 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml": {
+    "https://www1.folha.uol.com.br/educacao/2026/10/a-12-dias-da-eleicao-lula-promete-pe-de-meia-para-universitarios-ao-custo-inicial-de-r-46-bi-ao-ano.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-13T11:05:58",
-      "local": 12
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/campanha-do-pt-registra-exercito-do-lula-no-tse-e-kassio-libera-canal.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-13T18:14:49",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-13T22:53:40",
+      "editoria_texto": "educacao/2026",
+      "entrada": "2026-10-14T01:34:54",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-usara-recuo-de-flavio-em-fim-da-6x1-como-sinal-de-frouxidao.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-14T01:34:54",
+      "local": 11
     }
   },
   "totais": {
@@ -272,6 +266,9 @@
     "https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/lula-valorizou-o-salario-minimo-flavio-bolsonaro-vai-congela-lo.shtml": 1140.3,
     "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/tse-manda-flavio-e-aliados-removerem-video-falso-sobre-uso-de-cocaina-por-menina-em-ato-pro-lula.shtml": 877.4,
     "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/com-esse-congresso-quem-traz-mais-risco-flavio-ou-lula.shtml": 428.9,
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml": 428.9
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-supera-votos-do-pai-em-todas-as-rendas-e-lula-cresce-entre-mais-ricos.shtml": 428.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-52-dos-votos-validos-e-lula-48.shtml": 868.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-do-pt-registra-exercito-do-lula-no-tse-e-kassio-libera-canal.shtml": 440.1,
+    "https://www1.folha.uol.com.br/poder/2026/10/campanhas-de-lula-e-flavio-bolsonaro-vao-tentar-consenso-para-canais-de-whatsapp-e-sugerir-proposta-ao-tse.shtml": 161.2
   }
 }
