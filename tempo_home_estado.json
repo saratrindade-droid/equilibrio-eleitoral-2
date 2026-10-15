@@ -1,27 +1,15 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/10/por-que-perdeu-perdeu-por-que.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/marcelo-rubens-paiva",
-      "entrada": "2026-10-14T20:55:12",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/senado-inicia-votacao-da-pec-do-fim-da-escala-6x1.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-15T01:53:12",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/com-6x1-lula-avanca-agenda-eleitoral-no-congresso-e-oposicao-tenta-rebater-com-reducao-da-maioridade.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-15T01:53:12",
-      "local": 8
+      "local": 6
     },
-    "https://www1.folha.uol.com.br/ilustrada/2026/10/publico-canta-em-apoio-a-lula-na-abertura-da-mostra-de-cinema-de-sao-paulo.shtml": {
+    "https://www1.folha.uol.com.br/mundo/2026/10/fim-da-escala-6x1-e-vitoria-e-da-impulso-eleitoral-para-lula-destaca-imprensa-internacional.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "ilustrada/2026",
-      "entrada": "2026-10-15T01:53:12",
+      "editoria_texto": "mundo/2026",
+      "entrada": "2026-10-15T12:27:10",
       "local": 12
     }
   },
@@ -288,6 +276,9 @@
     "https://www1.folha.uol.com.br/mercado/2026/10/oposicao-libera-bancadas-para-votar-pec-do-fim-da-escala-6x1.shtml": 509.8,
     "https://www1.folha.uol.com.br/mercado/2026/10/lula-e-flavio-bolsonaro-divergem-sobre-clt-sindicatos-e-jornada-de-trabalho.shtml": 206.6,
     "https://www1.folha.uol.com.br/poder/2026/10/alcolumbre-articula-pautas-pro-lula-e-busca-voto-ate-do-pl-para-se-reeleger-presidente-do-senado.shtml": 169.3,
-    "https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml": 298.0
+    "https://www1.folha.uol.com.br/mercado/2026/10/camara-deve-votar-nesta-quarta-14-perdao-de-dividas-do-mei-e-aumento-do-teto-apos-acao-de-lula.shtml": 298.0,
+    "https://www1.folha.uol.com.br/colunas/marcelo-rubens-paiva/2026/10/por-que-perdeu-perdeu-por-que.shtml": 932.0,
+    "https://www1.folha.uol.com.br/mercado/2026/10/senado-inicia-votacao-da-pec-do-fim-da-escala-6x1.shtml": 634.0,
+    "https://www1.folha.uol.com.br/ilustrada/2026/10/publico-canta-em-apoio-a-lula-na-abertura-da-mostra-de-cinema-de-sao-paulo.shtml": 634.0
   }
 }
