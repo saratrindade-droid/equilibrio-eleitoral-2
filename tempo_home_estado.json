@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-10-16T01:22:05",
-      "local": 1
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram-prejudicadas-por-restricoes-engenheiros-falam-em-falhas-tecnicas.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
@@ -16,7 +10,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-16T15:23:41",
-      "local": 9
+      "local": 11
     }
   },
   "totais": {
@@ -294,6 +288,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-17-dos-eleitores-de-flavio-bolsonaro-dizem-votar-nele-para-derrotar-lula.shtml": 723.7,
     "https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml": 592.4,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-assumir-culpa-por-ma-avaliacao-do-governo-e-diz-ser-a-favor-de-reduzir-idade-penal-para-crime-hediondo.shtml": 841.6,
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-aliados-de-lula-associam-empate-a-ruas-e-6x1-e-campanha-de-flavio-ve-eleitorado-consolidado.shtml": 249.2
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-aliados-de-lula-associam-empate-a-ruas-e-6x1-e-campanha-de-flavio-ve-eleitorado-consolidado.shtml": 249.2,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml": 1052.0
   }
 }
