@@ -1,17 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-15T23:10:43",
-      "local": 11
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-17-dos-eleitores-de-flavio-bolsonaro-dizem-votar-nele-para-derrotar-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-15T23:10:43",
-      "local": 12
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
@@ -24,11 +12,11 @@
       "entrada": "2026-10-16T01:22:05",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-aliados-de-lula-associam-empate-a-ruas-e-6x1-e-campanha-de-flavio-ve-eleitorado-consolidado.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-16T01:22:05",
-      "local": 8
+      "entrada": "2026-10-16T11:14:27",
+      "local": 9
     }
   },
   "totais": {
@@ -301,6 +289,9 @@
     "https://www1.folha.uol.com.br/poder/2026/10/com-6x1-lula-avanca-agenda-eleitoral-no-congresso-e-oposicao-tenta-rebater-com-reducao-da-maioridade.shtml": 923.7,
     "https://www1.folha.uol.com.br/mundo/2026/10/fim-da-escala-6x1-e-vitoria-e-da-impulso-eleitoral-para-lula-destaca-imprensa-internacional.shtml": 289.8,
     "https://www1.folha.uol.com.br/cotidiano/2026/10/governo-lula-avalia-incluir-reducao-da-maioridade-penal-restrita-em-pec-da-seguranca-contra-manobra-bolsonarista.shtml": 187.3,
-    "https://www1.folha.uol.com.br/cotidiano/2026/10/lula-aborta-ideia-de-lider-do-pt-sobre-reducao-de-maioridade-penal-e-orienta-acelerar-pec-da-seguranca.shtml": 166.5
+    "https://www1.folha.uol.com.br/cotidiano/2026/10/lula-aborta-ideia-de-lider-do-pt-sobre-reducao-de-maioridade-penal-e-orienta-acelerar-pec-da-seguranca.shtml": 166.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml": 723.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-17-dos-eleitores-de-flavio-bolsonaro-dizem-votar-nele-para-derrotar-lula.shtml": 723.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml": 592.4
   }
 }
