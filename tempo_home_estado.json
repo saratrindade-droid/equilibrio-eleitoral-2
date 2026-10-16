@@ -4,13 +4,31 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-15T23:10:43",
-      "local": 6
+      "local": 11
     },
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-17-dos-eleitores-de-flavio-bolsonaro-dizem-votar-nele-para-derrotar-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-15T23:10:43",
-      "local": 7
+      "local": 12
+    },
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-10-16T01:22:05",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-assumir-culpa-por-ma-avaliacao-do-governo-e-diz-ser-a-favor-de-reduzir-idade-penal-para-crime-hediondo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-16T01:22:05",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/galeria-metropole-em-sp-restringe-acesso-apos-ato-pro-lula-marcado-em-seu-entorno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-16T01:22:05",
+      "local": 8
     }
   },
   "totais": {
