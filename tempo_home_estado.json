@@ -1,28 +1,28 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-17T08:44:39",
-      "local": 10
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-17T18:06:02",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-17T18:06:02",
-      "local": 9
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/governo-lula-sugere-ao-mpf-acao-contra-a-meta-por-falta-de-transparencia-na-moderacao-de-conteudo.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-17T20:31:52",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/lula-e-flavio-vao-em-desespero-rumo-ao-desempate.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-10-17T22:36:46",
+      "local": 3
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram-prejudicadas-por-restricoes-engenheiros-falam-em-falhas-tecnicas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-17T22:36:46",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-17T22:36:46",
+      "local": 10
     }
   },
   "totais": {
@@ -311,6 +311,9 @@
     "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/flavio-bolsonaro-marca-16-menos-audiencia-que-lula-em-entrevista-na-globo.shtml": 685.2,
     "https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml": 818.6,
     "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml": 133.4,
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml": 145.8
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml": 145.8,
+    "https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml": 832.1,
+    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml": 270.7,
+    "https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml": 270.7
   }
 }
