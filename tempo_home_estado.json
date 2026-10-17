@@ -1,22 +1,28 @@
 {
   "ativos": {
-    "https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "celebridades/2026",
-      "entrada": "2026-10-17T04:27:26",
-      "local": 9
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-17T08:44:39",
       "local": 10
     },
-    "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "cotidiano/2026",
-      "entrada": "2026-10-17T15:52:40",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-17T18:06:02",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-17T18:06:02",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-17T18:06:02",
+      "local": 9
     }
   },
   "totais": {
@@ -302,6 +308,8 @@
     "https://www1.folha.uol.com.br/poder/2026/10/tse-define-regras-sobre-canais-no-whatsapp-em-campanhas-apos-decisoes-conflitantes-para-lula-e-flavio.shtml": 392.6,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-globo-esta-sob-suspeicao-apos-almoco-de-flavio-bolsonaro-com-direcao-da-emissora.shtml": 257.2,
     "https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml": 257.2,
-    "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/flavio-bolsonaro-marca-16-menos-audiencia-que-lula-em-entrevista-na-globo.shtml": 685.2
+    "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/flavio-bolsonaro-marca-16-menos-audiencia-que-lula-em-entrevista-na-globo.shtml": 685.2,
+    "https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml": 818.6,
+    "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml": 133.4
   }
 }
