@@ -4,19 +4,13 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/samuelpessoa",
       "entrada": "2026-10-18T04:46:53",
-      "local": 2
+      "local": 4
     },
     "https://www1.folha.uol.com.br/mercado/2026/10/pacote-eleitoral-de-lula-alcanca-r-290-bi-e-gera-pressao-sobre-divida-publica.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-10-18T09:09:57",
       "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-promete-enviar-pec-que-garante-transporte-gratuito-aos-finais-de-semana-apos-aprovacao-do-fim-da-6x1.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-18T09:09:57",
-      "local": 7
     }
   },
   "totais": {
@@ -313,6 +307,7 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/lula-e-flavio-vao-em-desespero-rumo-ao-desempate.shtml": 370.1,
     "https://www1.folha.uol.com.br/poder/2026/10/ato-pro-lula-em-berlim-reune-centenas-no-portao-de-brandemburgo.shtml": 268.7,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-tentam-mobilizar-eleitores-em-estados-sem-2o-turno-para-governador.shtml": 531.8,
-    "https://www1.folha.uol.com.br/poder/2026/10/atos-de-rua-por-lula-misturam-fa-clubes-nativos-digitais-e-mobilizacao-fora-de-partidos.shtml": 531.8
+    "https://www1.folha.uol.com.br/poder/2026/10/atos-de-rua-por-lula-misturam-fa-clubes-nativos-digitais-e-mobilizacao-fora-de-partidos.shtml": 531.8,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-promete-enviar-pec-que-garante-transporte-gratuito-aos-finais-de-semana-apos-aprovacao-do-fim-da-6x1.shtml": 446.9
   }
 }
