@@ -1,27 +1,27 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/governo-lula-sugere-ao-mpf-acao-contra-a-meta-por-falta-de-transparencia-na-moderacao-de-conteudo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-17T20:31:52",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/lula-e-flavio-vao-em-desespero-rumo-ao-desempate.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/dora-kramer",
       "entrada": "2026-10-17T22:36:46",
       "local": 3
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram-prejudicadas-por-restricoes-engenheiros-falam-em-falhas-tecnicas.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-tentam-mobilizar-eleitores-em-estados-sem-2o-turno-para-governador.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-17T22:36:46",
+      "entrada": "2026-10-18T00:18:10",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/atos-de-rua-por-lula-misturam-fa-clubes-nativos-digitais-e-mobilizacao-fora-de-partidos.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-18T00:18:10",
       "local": 7
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/ato-pro-lula-em-berlim-reune-centenas-no-portao-de-brandemburgo.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-17T22:36:46",
+      "entrada": "2026-10-18T00:18:10",
       "local": 10
     }
   },
@@ -304,16 +304,17 @@
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/vitoria-ou-derrota-de-flavio-ou-lula-depende-de-12-milhao-de-votos-e-2-debates.shtml": 1052.0,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-aprofunda-campanha-do-medo-contra-flavio-bolsonaro-e-cita-argentina-e-audio-de-garoto-com-fome.shtml": 391.1,
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/globo-recebe-flavio-para-almoco-antes-desabatina-e-campanha-de-lula-protesta.shtml": 135.5,
-    "https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram-prejudicadas-por-restricoes-engenheiros-falam-em-falhas-tecnicas.shtml": 783.8,
+    "https://www1.folha.uol.com.br/poder/2026/10/em-mensagens-internas-meta-admite-que-contas-de-lula-foram-prejudicadas-por-restricoes-engenheiros-falam-em-falhas-tecnicas.shtml": 885.2,
     "https://www1.folha.uol.com.br/poder/2026/10/tse-define-regras-sobre-canais-no-whatsapp-em-campanhas-apos-decisoes-conflitantes-para-lula-e-flavio.shtml": 392.6,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-diz-que-globo-esta-sob-suspeicao-apos-almoco-de-flavio-bolsonaro-com-direcao-da-emissora.shtml": 257.2,
-    "https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml": 257.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/tse-confirma-decisao-que-obriga-meta-a-dar-tratamento-igual-a-lula-e-flavio-em-suas-plataformas.shtml": 358.6,
     "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/flavio-bolsonaro-marca-16-menos-audiencia-que-lula-em-entrevista-na-globo.shtml": 685.2,
     "https://f5.folha.uol.com.br/celebridades/2026/10/paulo-vieira-diz-que-globo-vetou-visita-a-lula-para-nao-levantar-duvidas-sobre-imparcialidade.shtml": 818.6,
     "https://www1.folha.uol.com.br/cotidiano/2026/10/reducao-da-maioridade-penal-tem-apoio-de-89-dos-eleitores-de-flavio-e-70-dos-que-votam-em-lula.shtml": 133.4,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-eleitores-de-flavio-dizem-votar-por-mudanca-e-os-de-lula-por-protecao-social.shtml": 145.8,
     "https://www1.folha.uol.com.br/poder/2026/10/debate-da-band-entre-lula-e-flavio-tera-confronto-livre-de-30-minutos-veja-regras.shtml": 832.1,
     "https://www1.folha.uol.com.br/poder/2026/10/apoiadores-de-lula-mobilizam-redes-usando-verde-e-amarelo-apos-convocacao-de-janones.shtml": 270.7,
-    "https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml": 270.7
+    "https://www1.folha.uol.com.br/mercado/2026/10/lula-defende-crescimento-para-ajuste-fiscal-e-flavio-fala-em-corte-de-gastos-veja-o-que-disseram-nas-sabatinas.shtml": 270.7,
+    "https://www1.folha.uol.com.br/poder/2026/10/governo-lula-sugere-ao-mpf-acao-contra-a-meta-por-falta-de-transparencia-na-moderacao-de-conteudo.shtml": 226.3
   }
 }
