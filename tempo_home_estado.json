@@ -1,28 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/faltou-conteudo-e-sobrou-despreparo-no-debate.shtml": {
+    "https://www1.folha.uol.com.br/colunas/michael-franca/2026/10/qual-e-o-legado-de-lula.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-10-19T19:49:19",
+      "editoria_texto": "colunas/michael-franca",
+      "entrada": "2026-10-19T23:09:29",
       "local": 2
     },
-    "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/painel",
-      "entrada": "2026-10-19T19:49:19",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/dolar-cai-com-pesquisa-eleitoral-no-radar-a-uma-semana-do-segundo-turno.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-19T19:49:19",
-      "local": 9
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-decide-pedir-cassacao-de-chapa-de-flavio-por-manipulacao-algoritmica-da-meta.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-19T19:49:19",
-      "local": 10
+      "entrada": "2026-10-19T23:09:29",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/manifestantes-pro-lula-criticam-suposta-ingerencia-eleitoral-da-meta-em-ato-na-frente-da-empresa.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-19T23:09:29",
+      "local": 7
     }
   },
   "totais": {
@@ -328,6 +322,10 @@
     "https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/18/6565-flavio-bolsonaro-e-lula-se-enfrentam-pela-primeira-vez-em-debate-na-band-acompanhe-ao-vivo.shtml#post467481": 126.2,
     "https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/18/6565-flavio-bolsonaro-e-lula-se-enfrentam-pela-primeira-vez-em-debate-na-band-acompanhe-ao-vivo.shtml#post467499": 313.6,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-trocam-acusacoes-de-corrupcao-e-envolvem-familiares-em-debate.shtml": 751.6,
-    "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml": 347.6
+    "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml": 347.6,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/faltou-conteudo-e-sobrou-despreparo-no-debate.shtml": 200.2,
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml": 200.2,
+    "https://www1.folha.uol.com.br/mercado/2026/10/dolar-cai-com-pesquisa-eleitoral-no-radar-a-uma-semana-do-segundo-turno.shtml": 200.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml": 200.2
   }
 }
