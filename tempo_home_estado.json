@@ -1,10 +1,28 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/faltou-conteudo-e-sobrou-despreparo-no-debate.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-10-19T19:49:19",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-10-19T19:49:19",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/dolar-cai-com-pesquisa-eleitoral-no-radar-a-uma-semana-do-segundo-turno.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-19T19:49:19",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-19T14:01:42",
-      "local": 6
+      "entrada": "2026-10-19T19:49:19",
+      "local": 10
     }
   },
   "totais": {
@@ -309,6 +327,7 @@
     "https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/18/6565-flavio-bolsonaro-e-lula-se-enfrentam-pela-primeira-vez-em-debate-na-band-acompanhe-ao-vivo.shtml": 126.2,
     "https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/18/6565-flavio-bolsonaro-e-lula-se-enfrentam-pela-primeira-vez-em-debate-na-band-acompanhe-ao-vivo.shtml#post467481": 126.2,
     "https://aovivo.folha.uol.com.br/poder-poder_e_politica/2026/10/18/6565-flavio-bolsonaro-e-lula-se-enfrentam-pela-primeira-vez-em-debate-na-band-acompanhe-ao-vivo.shtml#post467499": 313.6,
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-trocam-acusacoes-de-corrupcao-e-envolvem-familiares-em-debate.shtml": 751.6
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-e-lula-trocam-acusacoes-de-corrupcao-e-envolvem-familiares-em-debate.shtml": 751.6,
+    "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-lobista-e-filho-de-lula-viram-temas-de-lula-e-flavio-em-debate-veja-como-foi-em-10-pontos.shtml": 347.6
   }
 }
