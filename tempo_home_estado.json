@@ -4,19 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/michael-franca",
       "entrada": "2026-10-19T23:09:29",
-      "local": 2
+      "local": 3
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-decide-pedir-cassacao-de-chapa-de-flavio-por-manipulacao-algoritmica-da-meta.shtml": {
+    "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/vitoria-de-lula-ou-de-flavio-nao-leva-ao-mesmo-2030.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-19T23:09:29",
+      "editoria_texto": "colunas/joel-pinheiro-da-fonseca",
+      "entrada": "2026-10-20T01:49:44",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-preparou-documentos-para-reajustar-bolsa-familia-na-vespera-do-anuncio-e-sob-sigilo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-20T01:49:44",
       "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/manifestantes-pro-lula-criticam-suposta-ingerencia-eleitoral-da-meta-em-ato-na-frente-da-empresa.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-19T23:09:29",
-      "local": 7
     }
   },
   "totais": {
@@ -326,6 +326,8 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/faltou-conteudo-e-sobrou-despreparo-no-debate.shtml": 200.2,
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml": 200.2,
     "https://www1.folha.uol.com.br/mercado/2026/10/dolar-cai-com-pesquisa-eleitoral-no-radar-a-uma-semana-do-segundo-turno.shtml": 200.2,
-    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml": 200.2
+    "https://www1.folha.uol.com.br/poder/2026/10/btgnexus-flavio-bolsonaro-tem-503-e-lula-497-dos-votos-validos.shtml": 200.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-decide-pedir-cassacao-de-chapa-de-flavio-por-manipulacao-algoritmica-da-meta.shtml": 160.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/manifestantes-pro-lula-criticam-suposta-ingerencia-eleitoral-da-meta-em-ato-na-frente-da-empresa.shtml": 160.3
   }
 }
