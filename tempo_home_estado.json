@@ -1,22 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/18-integrantes-da-gestao-bolsonaro-respondem-na-justica-ou-sao-investigados-governo-lula-tem-6-casos.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-21T12:59:22",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-mantem-lideranca-sobre-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-debate.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-21T12:59:22",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-21T12:59:22",
-      "local": 8
+      "entrada": "2026-10-21T17:58:39",
+      "local": 9
     }
   },
   "totais": {
@@ -333,6 +321,9 @@
     "https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-preparou-documentos-para-reajustar-bolsa-familia-na-vespera-do-anuncio-e-sob-sigilo.shtml": 931.4,
     "https://www1.folha.uol.com.br/colunas/joel-pinheiro-da-fonseca/2026/10/vitoria-de-lula-ou-de-flavio-nao-leva-ao-mesmo-2030.shtml": 1134.9,
     "https://www1.folha.uol.com.br/ilustrissima/2026/10/como-abstencao-pode-dar-vitoria-a-flavio-bolsonaro-ou-a-lula.shtml": 1178.3,
-    "https://www1.folha.uol.com.br/poder/2026/10/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula.shtml": 663.8
+    "https://www1.folha.uol.com.br/poder/2026/10/doacoes-a-flavio-quase-triplicam-no-2o-turno-e-chegam-a-26-vezes-o-valor-recebido-por-lula.shtml": 663.8,
+    "https://www1.folha.uol.com.br/poder/2026/10/18-integrantes-da-gestao-bolsonaro-respondem-na-justica-ou-sao-investigados-governo-lula-tem-6-casos.shtml": 299.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-mantem-lideranca-sobre-flavio-bolsonaro-em-indice-de-popularidade-digital-apos-debate.shtml": 299.3,
+    "https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml": 299.3
   }
 }
