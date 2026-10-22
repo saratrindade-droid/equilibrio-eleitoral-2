@@ -6,11 +6,17 @@
       "entrada": "2026-10-22T14:41:14",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-manda-meta-apresentar-em-24-horas-relatorio-detalhado-sobre-acoes-do-exercito-de-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-22T18:51:35",
+      "entrada": "2026-10-22T21:59:46",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-22T21:59:46",
+      "local": 11
     }
   },
   "totais": {
@@ -334,6 +340,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/quaest-flavio-bolsonaro-marca-45-e-lula-tem-44-no-2o-turno.shtml": 942.2,
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-diz-nao-se-opor-a-condicoes-de-flavio-sobre-sigilo-inclusive-abrir-o-de-marcola.shtml": 571.1,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml": 295.4,
-    "https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml": 300.4
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml": 300.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml": 188.2
   }
 }
