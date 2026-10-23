@@ -4,7 +4,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/dora-kramer",
       "entrada": "2026-10-22T14:41:14",
-      "local": 1
+      "local": 2
     },
     "https://www1.folha.uol.com.br/poder/2026/10/kassio-manda-meta-apresentar-em-24-horas-relatorio-detalhado-sobre-acoes-do-exercito-de-lula.shtml": {
       "categoria_texto": "Lula",
@@ -17,6 +17,18 @@
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-23T00:33:22",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/choque-de-realidade-leva-lula-3-a-reconquistar-alguns-pobres-e-jovens.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-10-23T05:18:10",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-pede-mandado-contra-kassio-por-decisoes-contra-exercito-de-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/monicabergamo",
+      "entrada": "2026-10-23T05:18:10",
+      "local": 13
     }
   },
   "totais": {
