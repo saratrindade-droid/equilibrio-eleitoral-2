@@ -10,13 +10,13 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-22T21:59:46",
-      "local": 6
+      "local": 10
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-22T21:59:46",
-      "local": 11
+      "entrada": "2026-10-23T00:33:22",
+      "local": 6
     }
   },
   "totais": {
@@ -341,6 +341,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-diz-nao-se-opor-a-condicoes-de-flavio-sobre-sigilo-inclusive-abrir-o-de-marcola.shtml": 571.1,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml": 295.4,
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml": 300.4,
-    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml": 188.2
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml": 188.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml": 153.6
   }
 }
