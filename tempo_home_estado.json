@@ -6,29 +6,23 @@
       "entrada": "2026-10-22T14:41:14",
       "local": 2
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/kassio-manda-meta-apresentar-em-24-horas-relatorio-detalhado-sobre-acoes-do-exercito-de-lula.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-22T21:59:46",
-      "local": 10
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-23T00:33:22",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/choque-de-realidade-leva-lula-3-a-reconquistar-alguns-pobres-e-jovens.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-10-23T05:18:10",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-pede-mandado-contra-kassio-por-decisoes-contra-exercito-de-lula.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-pt-fala-em-onda-pro-lula-e-aliados-de-flavio-citam-forca-da-direita-na-vespera-de-eleicoes.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/monicabergamo",
-      "entrada": "2026-10-23T05:18:10",
-      "local": 13
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-23T10:14:17",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/10/campanha-de-lula-recorre-a-mendonca-por-mediacao-do-tse-e-pressiona-flavio-por-quebras-de-sigilo.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "blogs/brasilia-hoje",
+      "entrada": "2026-10-23T10:14:17",
+      "local": 9
     }
   },
   "totais": {
@@ -354,6 +348,9 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-compara-desafio-do-sigilo-a-flavio-a-truco-e-diz-que-tera-celular-para-entrar-no-canal-de-janones.shtml": 295.4,
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/pm-sp-acusa-campanha-de-lula-e-governo-de-ameaca-e-descumprimento-de-ordem-judicial-na-paulista.shtml": 300.4,
     "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-aceita-quebra-de-sigilo-proposta-por-lula-e-candidatos-assinam-acordo-no-tse.shtml": 188.2,
-    "https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml": 153.6
+    "https://www1.folha.uol.com.br/poder/2026/10/mendonca-diz-que-lula-e-flavio-bolsonaro-podem-abrir-seus-sigilos-e-que-medida-independe-de-aval-do-tse.shtml": 153.6,
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-manda-meta-apresentar-em-24-horas-relatorio-detalhado-sobre-acoes-do-exercito-de-lula.shtml": 734.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-e-lula-empatam-com-50-dos-votos-validos-cada.shtml": 580.9,
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/pt-pede-mandado-contra-kassio-por-decisoes-contra-exercito-de-lula.shtml": 296.1
   }
 }
