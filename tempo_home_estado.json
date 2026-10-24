@@ -6,11 +6,11 @@
       "entrada": "2026-10-24T05:09:24",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/em-debate-civilizado-lula-vence-flavio-por-pontos.shtml": {
+    "https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/quem-quer-ver-o-brasil-pegar-fogo.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-24T05:09:24",
-      "local": 2
+      "editoria_texto": "colunas/marceloleite",
+      "entrada": "2026-10-24T13:33:40",
+      "local": 7
     }
   },
   "totais": {
@@ -348,6 +348,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/ministro-do-tse-atende-a-campanha-do-pt-e-barra-suspensao-de-canal-exercito-do-lula-na-vespera-da-eleicao.shtml": 335.4,
     "https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml": 259.3,
     "https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml#post467534": 259.3,
-    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/lula-precisa-fazer-um-alckmin.shtml": 857.4
+    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/lula-precisa-fazer-um-alckmin.shtml": 857.4,
+    "https://www1.folha.uol.com.br/poder/2026/10/em-debate-civilizado-lula-vence-flavio-por-pontos.shtml": 504.3
   }
 }
