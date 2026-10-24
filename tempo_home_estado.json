@@ -6,11 +6,11 @@
       "entrada": "2026-10-24T21:41:22",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/atos-da-direita-e-da-esquerda-mobilizam-capitais-na-vespera-do-segundo-turno.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-tem-vantagem-entre-mais-propensos-a-votar-diz-analise-do-datafolha.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
-      "entrada": "2026-10-24T21:41:22",
-      "local": 8
+      "entrada": "2026-10-24T23:45:22",
+      "local": 9
     }
   },
   "totais": {
@@ -353,6 +353,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml": 706.5,
     "https://www1.folha.uol.com.br/colunas/marceloleite/2026/10/quem-quer-ver-o-brasil-pegar-fogo.shtml": 345.2,
     "https://www1.folha.uol.com.br/poder/2026/10/geraldo-alckmin-chega-ao-2o-turno-como-ponte-entre-lula-e-eleitores-de-direita.shtml": 143.0,
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-disputam-votos-de-487-milhoes-de-ausentes-e-eleitores-de-terceira-via.shtml": 285.5
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-e-flavio-bolsonaro-disputam-votos-de-487-milhoes-de-ausentes-e-eleitores-de-terceira-via.shtml": 285.5,
+    "https://www1.folha.uol.com.br/poder/2026/10/atos-da-direita-e-da-esquerda-mobilizam-capitais-na-vespera-do-segundo-turno.shtml": 124.0
   }
 }
