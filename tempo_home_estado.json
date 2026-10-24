@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/lula-precisa-fazer-um-alckmin.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/demetriomagnoli",
-      "entrada": "2026-10-23T19:14:41",
-      "local": 4
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/lula-defende-politicas-sociais-e-flavio-bolsonaro-diz-que-petista-tira-com-9-dedos-dinheiro-da-populacao.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
@@ -353,6 +347,7 @@
     "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/tse-da-24-horas-para-meta-e-x-explicarem-tratamento-desigual-a-flavio-contra-lula.shtml": 428.6,
     "https://www1.folha.uol.com.br/poder/2026/10/ministro-do-tse-atende-a-campanha-do-pt-e-barra-suspensao-de-canal-exercito-do-lula-na-vespera-da-eleicao.shtml": 335.4,
     "https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml": 259.3,
-    "https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml#post467534": 259.3
+    "https://aovivo.folha.uol.com.br/poder/2026/10/23/6566-flavio-bolsonaro-e-lula-participam-de-ultimo-debate-das-eleicoes-na-globo-acompanhe.shtml#post467534": 259.3,
+    "https://www1.folha.uol.com.br/colunas/demetriomagnoli/2026/10/lula-precisa-fazer-um-alckmin.shtml": 857.4
   }
 }
