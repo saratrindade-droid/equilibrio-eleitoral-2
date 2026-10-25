@@ -1,5 +1,18 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/poder/eleicoes/2026/apuracao/2turno/brasil/": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/eleicoes",
+      "entrada": "2026-10-25T23:53:51",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-kassio-de-demora-para-estender-horario-de-votacao-e-ve-boicote.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-25T23:53:51",
+      "local": 4
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
