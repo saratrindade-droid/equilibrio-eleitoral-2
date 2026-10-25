@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-25T19:18:50",
-      "local": 1
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -353,6 +346,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/eleicao-mais-acirrada-desde-a-redemocratizacao-opoe-flavio-bolsonaro-a-lula-com-158-milhoes-aptos-a-votar.shtml": 586.0,
     "https://www1.folha.uol.com.br/poder/2026/10/acoes-no-tse-devem-prolongar-disputa-entre-lula-e-flavio-bolsonaro-com-ares-de-terceiro-turno.shtml": 255.1,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml": 1297.5,
-    "https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml": 154.3
+    "https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml": 154.3,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml": 156.4
   }
 }
