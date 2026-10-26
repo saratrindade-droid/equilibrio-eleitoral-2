@@ -1,16 +1,28 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/eleicoes/2026/apuracao/2turno/brasil/": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/eleicoes",
-      "entrada": "2026-10-25T23:53:51",
-      "local": 1
-    },
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-kassio-de-demora-para-estender-horario-de-votacao-e-ve-boicote.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-25T23:53:51",
-      "local": 4
+      "local": 11
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-promete-mudar-o-jeito-de-governar-ataca-flavio-e-diz-que-venceu-intromissao-externa.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-26T03:13:18",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/opiniao/2026/10/lula-ganha-nova-chance-de-corrigir-seu-governo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "opiniao/2026",
+      "entrada": "2026-10-26T03:13:18",
+      "local": 7
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-diz-que-decisao-de-zanin-de-prorrogar-votacao-nao-provocou-nenhuma-alteracao-na-eleicao.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-26T03:13:18",
+      "local": 8
     }
   },
   "totais": {
@@ -360,6 +372,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/acoes-no-tse-devem-prolongar-disputa-entre-lula-e-flavio-bolsonaro-com-ares-de-terceiro-turno.shtml": 255.1,
     "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml": 1297.5,
     "https://www1.folha.uol.com.br/poder/2026/10/ao-votar-no-segundo-turno-flavio-explora-medo-e-endividamento-e-lula-atribui-atos-de-rua-ao-povo.shtml": 154.3,
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml": 156.4
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-pede-ampliacao-do-horario-de-votacao-e-acusa-prefeitos-de-dificultar-acesso-as-urnas.shtml": 156.4,
+    "https://www1.folha.uol.com.br/poder/eleicoes/2026/apuracao/2turno/brasil/": 199.5
   }
 }
