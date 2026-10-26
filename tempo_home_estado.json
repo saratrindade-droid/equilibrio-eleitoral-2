@@ -6,29 +6,17 @@
       "entrada": "2026-10-26T09:03:31",
       "local": 5
     },
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-deve-ter-novo-nucleo-de-poder-reformulacao-na-economia-disputa-por-emendas-e-reforma-do-judiciario.shtml": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/desafio-de-lula-e-corresponder-a-vitoria-do-esforco-coletivo.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-26T09:03:31",
-      "local": 6
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-10-26T16:04:23",
+      "local": 1
     },
-    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-a-vitoria-de-lula-em-virada-inedita-e-outros-ineditismos-desta-eleicao.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "podcasts/2026",
-      "entrada": "2026-10-26T09:03:31",
-      "local": 8
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/conta-da-babaquice-fiscal-tera-de-ser-paga-pelo-proprio-lula.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/10/orcamento-de-2027-sera-peca-chave-para-lula-corrigir-rota-no-fiscal-diz-ex-secretario-do-tesouro.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-26T09:03:31",
+      "entrada": "2026-10-26T16:04:23",
       "local": 10
-    },
-    "https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-26T09:03:31",
-      "local": 11
     }
   },
   "totais": {
@@ -383,6 +371,10 @@
     "https://www1.folha.uol.com.br/poder/2026/10/campanha-de-lula-acusa-kassio-de-demora-para-estender-horario-de-votacao-e-ve-boicote.shtml": 549.7,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-promete-mudar-o-jeito-de-governar-ataca-flavio-e-diz-que-venceu-intromissao-externa.shtml": 350.2,
     "https://www1.folha.uol.com.br/opiniao/2026/10/lula-ganha-nova-chance-de-corrigir-seu-governo.shtml": 350.2,
-    "https://www1.folha.uol.com.br/poder/2026/10/kassio-diz-que-decisao-de-zanin-de-prorrogar-votacao-nao-provocou-nenhuma-alteracao-na-eleicao.shtml": 350.2
+    "https://www1.folha.uol.com.br/poder/2026/10/kassio-diz-que-decisao-de-zanin-de-prorrogar-votacao-nao-provocou-nenhuma-alteracao-na-eleicao.shtml": 350.2,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-deve-ter-novo-nucleo-de-poder-reformulacao-na-economia-disputa-por-emendas-e-reforma-do-judiciario.shtml": 420.9,
+    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-a-vitoria-de-lula-em-virada-inedita-e-outros-ineditismos-desta-eleicao.shtml": 420.9,
+    "https://www1.folha.uol.com.br/mercado/2026/10/conta-da-babaquice-fiscal-tera-de-ser-paga-pelo-proprio-lula.shtml": 420.9,
+    "https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml": 420.9
   }
 }
