@@ -1,21 +1,33 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/10/a-unica-diferenca-entre-flavio-e-lula-e-o-tipo-de-degradacao-que-ocorrera-no-brasil.shtml": {
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/o-que-lula-4-pode-fazer-para-domar-o-panico-dos-donos-do-dinheiro-grosso.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/luizfelipeponde",
-      "entrada": "2026-10-26T09:03:31",
-      "local": 5
-    },
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/desafio-de-lula-e-corresponder-a-vitoria-do-esforco-coletivo.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-10-26T16:04:23",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-10-26T20:59:21",
       "local": 1
     },
-    "https://www1.folha.uol.com.br/mercado/2026/10/orcamento-de-2027-sera-peca-chave-para-lula-corrigir-rota-no-fiscal-diz-ex-secretario-do-tesouro.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-fara-o-que-disse-na-campanha.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-26T20:59:21",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/alvaro-costa-e-silva/2026/10/amasso-de-lula-muda-o-cenario-das-paixoes-politicas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/alvaro-costa-e-silva",
+      "entrada": "2026-10-26T20:59:21",
+      "local": 5
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/lula-sinaliza-a-aliados-que-pode-indicar-fonteles-para-fazenda-governador-do-pi-aceitaria-deixar-o-cargo.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-26T16:04:23",
+      "entrada": "2026-10-26T20:59:21",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/10/ceo-da-petrobras-ve-queda-das-acoes-apos-vitoria-de-lula-como-especulativa.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-26T20:59:21",
       "local": 10
     }
   },
@@ -375,6 +387,9 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-deve-ter-novo-nucleo-de-poder-reformulacao-na-economia-disputa-por-emendas-e-reforma-do-judiciario.shtml": 420.9,
     "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-a-vitoria-de-lula-em-virada-inedita-e-outros-ineditismos-desta-eleicao.shtml": 420.9,
     "https://www1.folha.uol.com.br/mercado/2026/10/conta-da-babaquice-fiscal-tera-de-ser-paga-pelo-proprio-lula.shtml": 420.9,
-    "https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml": 420.9
+    "https://www1.folha.uol.com.br/poder/2026/10/leia-a-integra-do-discurso-do-presidente-lula-reeleito-neste-domingo.shtml": 420.9,
+    "https://www1.folha.uol.com.br/colunas/luizfelipeponde/2026/10/a-unica-diferenca-entre-flavio-e-lula-e-o-tipo-de-degradacao-que-ocorrera-no-brasil.shtml": 715.8,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/desafio-de-lula-e-corresponder-a-vitoria-do-esforco-coletivo.shtml": 295.0,
+    "https://www1.folha.uol.com.br/mercado/2026/10/orcamento-de-2027-sera-peca-chave-para-lula-corrigir-rota-no-fiscal-diz-ex-secretario-do-tesouro.shtml": 295.0
   }
 }
