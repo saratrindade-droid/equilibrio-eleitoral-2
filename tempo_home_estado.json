@@ -1,22 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/pais-deu-recados-ao-governo-e-a-oposicao.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-10-27T16:02:38",
-      "local": 1
-    },
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/final-feliz.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/helioschwartsman",
       "entrada": "2026-10-27T16:02:38",
-      "local": 2
+      "local": 1
     },
-    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/10/a-mobilizacao-que-elegeu-lula-pode-melhorar-seu-governo.shtml": {
+    "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/10/uma-vitoria-construida-a-milhoes-de-maos.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/deborah-bizarria",
-      "entrada": "2026-10-27T16:02:38",
-      "local": 4
+      "editoria_texto": "colunas/joanna-moura",
+      "entrada": "2026-10-27T20:38:08",
+      "local": 3
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/governistas-se-irritam-com-moraes-e-lula-diz-estar-preocupado-com-discurso-de-perseguicao-a-flavio.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-10-27T20:38:08",
+      "local": 10
     }
   },
   "totais": {
@@ -388,6 +388,8 @@
     "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/lideranca-evangelica-previu-que-flavio-perderia-para-lula.shtml": 941.9,
     "https://www1.folha.uol.com.br/poder/2026/10/lula-deve-remanejar-ministros-e-tera-desafio-de-abrigar-no-governo-aliados-derrotados-em-eleicoes.shtml": 320.0,
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml": 320.0,
-    "https://www1.folha.uol.com.br/poder/2026/10/veja-as-principais-promessas-de-campanha-de-lula-pt-reeleito-presidente.shtml": 320.0
+    "https://www1.folha.uol.com.br/poder/2026/10/veja-as-principais-promessas-de-campanha-de-lula-pt-reeleito-presidente.shtml": 320.0,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/pais-deu-recados-ao-governo-e-a-oposicao.shtml": 275.5,
+    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/10/a-mobilizacao-que-elegeu-lula-pode-melhorar-seu-governo.shtml": 275.5
   }
 }
