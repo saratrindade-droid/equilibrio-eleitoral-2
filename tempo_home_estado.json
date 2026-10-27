@@ -16,19 +16,25 @@
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-10-26T20:59:21",
-      "local": 11
+      "local": 10
     },
     "https://www1.folha.uol.com.br/mercado/2026/10/ceo-da-petrobras-ve-queda-das-acoes-apos-vitoria-de-lula-como-especulativa.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
       "entrada": "2026-10-26T20:59:21",
-      "local": 12
+      "local": 11
     },
     "https://www1.folha.uol.com.br/colunas/juliano-spyer/2026/10/lideranca-evangelica-previu-que-flavio-perderia-para-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/juliano-spyer",
       "entrada": "2026-10-27T00:20:45",
       "local": 2
+    },
+    "https://www1.folha.uol.com.br/opiniao/2026/10/mercado-precifica-a-crise-semeada-por-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "opiniao/2026",
+      "entrada": "2026-10-27T05:19:13",
+      "local": 12
     }
   },
   "totais": {
