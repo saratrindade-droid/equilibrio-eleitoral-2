@@ -4,7 +4,7 @@
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/helioschwartsman",
       "entrada": "2026-10-27T16:02:38",
-      "local": 1
+      "local": 2
     },
     "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/10/uma-vitoria-construida-a-milhoes-de-maos.shtml": {
       "categoria_texto": "Lula",
@@ -17,6 +17,12 @@
       "editoria_texto": "colunas/painel",
       "entrada": "2026-10-27T20:38:08",
       "local": 10
+    },
+    "https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-e-problema-para-a-direita-e-para-lula.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-28T00:01:14",
+      "local": 12
     }
   },
   "totais": {
