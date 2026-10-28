@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/final-feliz.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/helioschwartsman",
-      "entrada": "2026-10-27T16:02:38",
-      "local": 2
-    },
     "https://www1.folha.uol.com.br/colunas/joanna-moura/2026/10/uma-vitoria-construida-a-milhoes-de-maos.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/joanna-moura",
@@ -396,6 +390,7 @@
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-cresceu-em-cidades-onde-flavio-participou-de-bloco-do-22-com-nikolas.shtml": 320.0,
     "https://www1.folha.uol.com.br/poder/2026/10/veja-as-principais-promessas-de-campanha-de-lula-pt-reeleito-presidente.shtml": 320.0,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/10/pais-deu-recados-ao-governo-e-a-oposicao.shtml": 275.5,
-    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/10/a-mobilizacao-que-elegeu-lula-pode-melhorar-seu-governo.shtml": 275.5
+    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/10/a-mobilizacao-que-elegeu-lula-pode-melhorar-seu-governo.shtml": 275.5,
+    "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/final-feliz.shtml": 804.9
   }
 }
