@@ -1,22 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/dizer-que-lula-4-sera-dilma-2-e-exagero-assim-como-achar-que-nao-ha-risco-de-colapso.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-vai-procurar-centrao-e-condiciona-indicacoes-para-ministerios-a-votos-no-congresso.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-10-30T02:58:17",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-10-30T09:52:05",
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-10-30T16:24:42",
       "local": 6
-    },
-    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-entrevista-andre-singer-e-discute-rumos-do-lulismo-no-governo-lula-4.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "podcasts/2026",
-      "entrada": "2026-10-30T09:52:05",
-      "local": 10
     }
   },
   "totais": {
@@ -396,6 +384,9 @@
     "https://www1.folha.uol.com.br/colunas/painel/2026/10/governistas-se-irritam-com-moraes-e-lula-diz-estar-preocupado-com-discurso-de-perseguicao-a-flavio.shtml": 893.6,
     "https://www1.folha.uol.com.br/poder/2026/10/fuga-de-flavio-e-problema-para-a-direita-e-para-lula.shtml": 690.5,
     "https://www1.folha.uol.com.br/poder/2026/10/trump-diz-que-conversara-com-lula-e-que-petista-lhe-pediu-para-nao-tomar-lado.shtml": 845.5,
-    "https://www1.folha.uol.com.br/poder/2026/10/embaixada-dos-eua-em-brasilia-destacou-em-relatorio-vitoria-definitiva-de-lula.shtml": 613.3
+    "https://www1.folha.uol.com.br/poder/2026/10/embaixada-dos-eua-em-brasilia-destacou-em-relatorio-vitoria-definitiva-de-lula.shtml": 613.3,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/dizer-que-lula-4-sera-dilma-2-e-exagero-assim-como-achar-que-nao-ha-risco-de-colapso.shtml": 806.4,
+    "https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml": 392.6,
+    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-entrevista-andre-singer-e-discute-rumos-do-lulismo-no-governo-lula-4.shtml": 392.6
   }
 }
