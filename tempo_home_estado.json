@@ -4,13 +4,19 @@
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-29T19:46:36",
-      "local": 10
+      "local": 9
     },
     "https://www1.folha.uol.com.br/poder/2026/10/embaixada-dos-eua-em-brasilia-destacou-em-relatorio-vitoria-definitiva-de-lula.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "poder/2026",
       "entrada": "2026-10-29T23:38:47",
       "local": 6
+    },
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/dizer-que-lula-4-sera-dilma-2-e-exagero-assim-como-achar-que-nao-ha-risco-de-colapso.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-10-30T02:58:17",
+      "local": 3
     }
   },
   "totais": {
