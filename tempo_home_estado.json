@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/10/lula-vai-procurar-centrao-e-condiciona-indicacoes-para-ministerios-a-votos-no-congresso.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/10/bolsa-cai-175-na-semana-da-vitoria-de-lula-e-tem-pior-resultado-desde-2020.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-10-30T16:24:42",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-10-31T00:38:15",
       "local": 6
-    },
-    "https://www1.folha.uol.com.br/folhinha/2026/10/eleicoes-no-roblox-tem-protestos-urna-eletronica-e-lula-com-51-dos-votos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "folhinha/2026",
-      "entrada": "2026-10-30T20:57:51",
-      "local": 10
     }
   },
   "totais": {
@@ -393,6 +387,8 @@
     "https://www1.folha.uol.com.br/poder/2026/10/embaixada-dos-eua-em-brasilia-destacou-em-relatorio-vitoria-definitiva-de-lula.shtml": 613.3,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/10/dizer-que-lula-4-sera-dilma-2-e-exagero-assim-como-achar-que-nao-ha-risco-de-colapso.shtml": 806.4,
     "https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml": 392.6,
-    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-entrevista-andre-singer-e-discute-rumos-do-lulismo-no-governo-lula-4.shtml": 392.6
+    "https://www1.folha.uol.com.br/podcasts/2026/10/podcast-entrevista-andre-singer-e-discute-rumos-do-lulismo-no-governo-lula-4.shtml": 392.6,
+    "https://www1.folha.uol.com.br/poder/2026/10/lula-vai-procurar-centrao-e-condiciona-indicacoes-para-ministerios-a-votos-no-congresso.shtml": 493.6,
+    "https://www1.folha.uol.com.br/folhinha/2026/10/eleicoes-no-roblox-tem-protestos-urna-eletronica-e-lula-com-51-dos-votos.shtml": 220.4
   }
 }
