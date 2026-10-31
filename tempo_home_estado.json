@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-indicar-deputado-de-sp-para-seu-governo-para-que-falcao-assuma-mandato.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/painel",
-      "entrada": "2026-10-31T12:48:39",
-      "local": 7
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -391,6 +384,7 @@
     "https://www1.folha.uol.com.br/poder/2026/10/lula-vai-procurar-centrao-e-condiciona-indicacoes-para-ministerios-a-votos-no-congresso.shtml": 493.6,
     "https://www1.folha.uol.com.br/folhinha/2026/10/eleicoes-no-roblox-tem-protestos-urna-eletronica-e-lula-com-51-dos-votos.shtml": 220.4,
     "https://www1.folha.uol.com.br/mercado/2026/10/bolsa-cai-175-na-semana-da-vitoria-de-lula-e-tem-pior-resultado-desde-2020.shtml": 730.4,
-    "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/calma-nao-estamos-em-2030.shtml": 390.7
+    "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/10/calma-nao-estamos-em-2030.shtml": 390.7,
+    "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-quer-indicar-deputado-de-sp-para-seu-governo-para-que-falcao-assuma-mandato.shtml": 275.2
   }
 }
