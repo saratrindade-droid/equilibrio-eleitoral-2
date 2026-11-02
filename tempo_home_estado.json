@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/alvaro-machado-dias/2026/11/o-segundo-lulismo.shtml": {
+    "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/alvaro-machado-dias",
-      "entrada": "2026-11-01T23:55:44",
+      "editoria_texto": "colunas/lara-mesquita",
+      "entrada": "2026-11-02T13:25:37",
       "local": 1
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-01T23:55:44",
-      "local": 9
     }
   },
   "totais": {
@@ -402,6 +396,8 @@
     "https://www1.folha.uol.com.br/poder/2026/11/estudantes-fazem-ato-em-9-estados-contra-flavio-bolsonaro-e-de-apoio-a-reeleicao-de-lula.shtml": 402.7,
     "https://www1.folha.uol.com.br/poder/2026/10/pt-trava-disputa-interna-e-abre-debate-sobre-futuro-do-partido-no-pos-lula.shtml": 851.7,
     "https://www1.folha.uol.com.br/poder/2026/11/esquerda-quer-regulacao-das-redes-e-mobilizacao-digital-permanente-apos-eleicao-de-lula.shtml": 448.9,
-    "https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-venceu-gracas-ao-medo-do-bolsonarismo-e-as-redes-sociais-que-promete-combater.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo": 448.9
+    "https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-venceu-gracas-ao-medo-do-bolsonarismo-e-as-redes-sociais-que-promete-combater.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo": 448.9,
+    "https://www1.folha.uol.com.br/colunas/alvaro-machado-dias/2026/11/o-segundo-lulismo.shtml": 809.9,
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml": 809.9
   }
 }
