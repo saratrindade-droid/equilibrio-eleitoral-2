@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/lara-mesquita",
-      "entrada": "2026-11-02T13:25:37",
-      "local": 1
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -398,6 +391,7 @@
     "https://www1.folha.uol.com.br/poder/2026/11/esquerda-quer-regulacao-das-redes-e-mobilizacao-digital-permanente-apos-eleicao-de-lula.shtml": 448.9,
     "https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-venceu-gracas-ao-medo-do-bolsonarismo-e-as-redes-sociais-que-promete-combater.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo": 448.9,
     "https://www1.folha.uol.com.br/colunas/alvaro-machado-dias/2026/11/o-segundo-lulismo.shtml": 809.9,
-    "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml": 809.9
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml": 809.9,
+    "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml": 540.3
   }
 }
