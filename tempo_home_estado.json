@@ -1,10 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/virada-de-lula-mostrou-o-peso-do-voto-facultativo.shtml": {
+    "https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/11/o-que-houve-de-inovador-no-canal-de-whatsapp-do-exercito-do-lula.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-11-03T18:30:20",
+      "editoria_texto": "colunas/wilson-gomes",
+      "entrada": "2026-11-03T23:37:38",
       "local": 1
+    },
+    "https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2026/11/o-rumo-para-selic-em-um-digito.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/bernardo-guimaraes",
+      "entrada": "2026-11-03T23:37:38",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-da-seguranca-publica-pode-ficar-so-para-2027.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-11-03T23:37:38",
+      "local": 8
     }
   },
   "totais": {
@@ -399,6 +411,7 @@
     "https://www1.folha.uol.com.br/ilustrissima/2026/10/lula-venceu-gracas-ao-medo-do-bolsonarismo-e-as-redes-sociais-que-promete-combater.shtml?utm_source=sharenativo&utm_medium=social&utm_campaign=sharenativo": 448.9,
     "https://www1.folha.uol.com.br/colunas/alvaro-machado-dias/2026/11/o-segundo-lulismo.shtml": 809.9,
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml": 809.9,
-    "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml": 540.3
+    "https://www1.folha.uol.com.br/colunas/lara-mesquita/2026/11/a-conta-mudou-para-o-pl-o-partido-quer-tirar-moraes-mas-nao-quer-que-lula-escolha-o-substituto.shtml": 540.3,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/virada-de-lula-mostrou-o-peso-do-voto-facultativo.shtml": 307.3
   }
 }
