@@ -1,5 +1,12 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/este-pais-tem-uma-constituicao.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/conrado-hubner-mendes",
+      "entrada": "2026-11-04T23:55:43",
+      "local": 3
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
