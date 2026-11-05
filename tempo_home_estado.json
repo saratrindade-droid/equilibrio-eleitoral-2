@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/este-pais-tem-uma-constituicao.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/conrado-hubner-mendes",
-      "entrada": "2026-11-04T23:55:43",
-      "local": 4
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/polemica-religiosa-dos-juros-leva-lula-a-tv-e-bc-para-a-malhacao-do-judas.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-11-05T05:45:42",
-      "local": 2
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-convoca-reuniao-com-economistas-proximos-ao-pt-e-quer-ampliar-discussao-sobre-cenario-economico.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-05T13:30:54",
+      "local": 6
     }
   },
   "totais": {
@@ -409,6 +409,7 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/virada-de-lula-mostrou-o-peso-do-voto-facultativo.shtml": 307.3,
     "https://www1.folha.uol.com.br/colunas/painel/2026/11/ministerio-da-seguranca-publica-pode-ficar-so-para-2027.shtml": 218.9,
     "https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/11/o-que-houve-de-inovador-no-canal-de-whatsapp-do-exercito-do-lula.shtml": 693.8,
-    "https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2026/11/o-rumo-para-selic-em-um-digito.shtml": 693.8
+    "https://www1.folha.uol.com.br/colunas/bernardo-guimaraes/2026/11/o-rumo-para-selic-em-um-digito.shtml": 693.8,
+    "https://www1.folha.uol.com.br/colunas/conrado-hubner-mendes/2026/11/este-pais-tem-uma-constituicao.shtml": 815.2
   }
 }
