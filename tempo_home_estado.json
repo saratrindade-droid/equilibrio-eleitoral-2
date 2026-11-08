@@ -6,12 +6,6 @@
       "entrada": "2026-11-08T07:31:41",
       "local": 2
     },
-    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-estuda-mudar-arcabouco-para-reduzir-limite-de-gastos-apos-frustracao-de-receitas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-08T07:31:41",
-      "local": 7
-    },
     "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "negocios/2026",
@@ -421,6 +415,7 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-convoca-reuniao-com-economistas-proximos-ao-pt-e-quer-ampliar-discussao-sobre-cenario-economico.shtml": 436.6,
     "https://www1.folha.uol.com.br/poder/2026/11/celular-de-vorcaro-registra-316-interacoes-com-moraes-meses-antes-de-prisao.shtml": 226.5,
     "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/na-escolha-para-fazenda-lula-repete-roteiro-de-2022.shtml": 281.1,
-    "https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml": 505.0
+    "https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml": 505.0,
+    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-estuda-mudar-arcabouco-para-reduzir-limite-de-gastos-apos-frustracao-de-receitas.shtml": 417.5
   }
 }
