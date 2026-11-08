@@ -1,16 +1,10 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/a-economia-de-lula-4.shtml": {
+    "https://www1.folha.uol.com.br/poder/2026/11/lula-indica-querer-insistir-em-messias-para-o-stf-e-senadores-anteveem-resistencia.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/celso-rocha-de-barros",
-      "entrada": "2026-11-08T07:31:41",
-      "local": 2
-    },
-    "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "negocios/2026",
-      "entrada": "2026-11-08T07:31:41",
-      "local": 9
+      "editoria_texto": "poder/2026",
+      "entrada": "2026-11-08T19:01:08",
+      "local": 8
     }
   },
   "totais": {
@@ -416,6 +410,8 @@
     "https://www1.folha.uol.com.br/poder/2026/11/celular-de-vorcaro-registra-316-interacoes-com-moraes-meses-antes-de-prisao.shtml": 226.5,
     "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/na-escolha-para-fazenda-lula-repete-roteiro-de-2022.shtml": 281.1,
     "https://www1.folha.uol.com.br/ilustrissima/2026/10/depois-de-virada-incrivel-lula-tera-que-cumprir-as-promessas-feitas-a-multidao-da-paulista.shtml": 505.0,
-    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-estuda-mudar-arcabouco-para-reduzir-limite-de-gastos-apos-frustracao-de-receitas.shtml": 417.5
+    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-estuda-mudar-arcabouco-para-reduzir-limite-de-gastos-apos-frustracao-de-receitas.shtml": 417.5,
+    "https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/a-economia-de-lula-4.shtml": 689.5,
+    "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": 689.5
   }
 }
