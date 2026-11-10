@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-11-09T20:10:03",
-      "local": 2
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -413,6 +406,7 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-estuda-mudar-arcabouco-para-reduzir-limite-de-gastos-apos-frustracao-de-receitas.shtml": 417.5,
     "https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/a-economia-de-lula-4.shtml": 689.5,
     "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": 689.5,
-    "https://www1.folha.uol.com.br/poder/2026/11/lula-indica-querer-insistir-em-messias-para-o-stf-e-senadores-anteveem-resistencia.shtml": 226.7
+    "https://www1.folha.uol.com.br/poder/2026/11/lula-indica-querer-insistir-em-messias-para-o-stf-e-senadores-anteveem-resistencia.shtml": 226.7,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": 859.3
   }
 }
