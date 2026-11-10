@@ -1,5 +1,12 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/marilizpereirajorge",
+      "entrada": "2026-11-10T23:20:54",
+      "local": 2
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
