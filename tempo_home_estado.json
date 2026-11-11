@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/marilizpereirajorge",
-      "entrada": "2026-11-10T23:20:54",
-      "local": 2
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-4-tende-a-adotar-caminho-do-meio-para-desgosto-de-gregos-e-troianos.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-11-11T10:10:26",
-      "local": 7
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-11T17:53:50",
+      "local": 10
     }
   },
   "totais": {
@@ -420,6 +420,7 @@
     "https://www1.folha.uol.com.br/colunas/celso-rocha-de-barros/2026/11/a-economia-de-lula-4.shtml": 689.5,
     "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": 689.5,
     "https://www1.folha.uol.com.br/poder/2026/11/lula-indica-querer-insistir-em-messias-para-o-stf-e-senadores-anteveem-resistencia.shtml": 226.7,
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": 859.3
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": 859.3,
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": 1112.9
   }
 }
