@@ -1,18 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-4-tende-a-adotar-caminho-do-meio-para-desgosto-de-gregos-e-troianos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-11-11T10:10:26",
-      "local": 1
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-11T17:53:50",
-      "local": 10
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -421,6 +408,8 @@
     "https://c-level.folha.uol.com.br/negocios/2026/11/empresas-seguram-novos-investimentos-a-espera-da-politica-economica-do-lula-4.shtml": 689.5,
     "https://www1.folha.uol.com.br/poder/2026/11/lula-indica-querer-insistir-em-messias-para-o-stf-e-senadores-anteveem-resistencia.shtml": 226.7,
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": 859.3,
-    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": 1112.9
+    "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": 1112.9,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-4-tende-a-adotar-caminho-do-meio-para-desgosto-de-gregos-e-troianos.shtml": 831.7,
+    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml": 368.3
   }
 }
