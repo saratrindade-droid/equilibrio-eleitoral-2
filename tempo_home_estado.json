@@ -1,10 +1,22 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-esta-devendo-atencao-plena-a-turbulencias-domesticas.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/viniciustorres",
-      "entrada": "2026-11-12T07:01:14",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-11-12T15:55:19",
       "local": 1
+    },
+    "https://www1.folha.uol.com.br/colunas/maria-herminia-tavares/2026/11/as-alternativas-de-lula-4.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/maria-herminia-tavares",
+      "entrada": "2026-11-12T15:55:19",
+      "local": 2
+    },
+    "https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/11/cultura-tem-insatisfacoes-criticas-e-fritura-no-lula-4.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/marcosaugustogoncalves",
+      "entrada": "2026-11-12T15:55:19",
+      "local": 3
     }
   },
   "totais": {
@@ -417,6 +429,7 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-viaja-sem-desenhar-a-propria-transicao.shtml": 859.3,
     "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/lula-a-esquerda-e-os-homens-jovens.shtml": 1112.9,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-4-tende-a-adotar-caminho-do-meio-para-desgosto-de-gregos-e-troianos.shtml": 831.7,
-    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml": 368.3
+    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-queda-com-plano-de-ajuste-fiscal-do-governo-lula-no-radar.shtml": 368.3,
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/remendo-fiscal-para-lula-4-nao-muda-nada-mas-nao-e-irrelevante.shtml": 534.1
   }
 }
