@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/11/a-intimidade-do-poder-revelada.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/gustavo-alonso",
-      "entrada": "2026-11-13T22:52:07",
-      "local": 3
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-14T09:35:51",
+      "local": 6
     },
-    "https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2026/11/primado-da-lei.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/oscarvilhenavieira",
-      "entrada": "2026-11-14T02:50:30",
-      "local": 1
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-14T09:35:51",
+      "local": 8
     }
   },
   "totais": {
@@ -431,6 +431,8 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/primeiro-pacote-de-ajuste-fiscal-de-lula-4-gera-resistencias-a-esquerda-e-a-direita.shtml": 584.4,
     "https://www1.folha.uol.com.br/mercado/2026/11/plano-de-ajuste-do-governo-lula-retoma-medida-ja-rejeitada-pelo-congresso.shtml": 269.6,
     "https://www1.folha.uol.com.br/mercado/2026/11/entenda-ponto-a-ponto-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula.shtml": 901.3,
-    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-vota-contra-ajuste-do-governo-lula-apos-ter-prometido-corte-de-gastos.shtml": 901.3
+    "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/flavio-bolsonaro-vota-contra-ajuste-do-governo-lula-apos-ter-prometido-corte-de-gastos.shtml": 901.3,
+    "https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/11/a-intimidade-do-poder-revelada.shtml": 643.7,
+    "https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2026/11/primado-da-lei.shtml": 405.4
   }
 }
