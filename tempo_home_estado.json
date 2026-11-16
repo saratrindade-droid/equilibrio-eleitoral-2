@@ -1,10 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/volta-de-marina-a-esplanada-testa-coerencia-ambiental-de-lula.shtml": {
+    "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/marceloleite",
-      "entrada": "2026-11-15T19:54:52",
-      "local": 4
+      "editoria_texto": "colunas/encaminhado-com-frequencia",
+      "entrada": "2026-11-16T11:43:01",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "podcasts/2026",
+      "entrada": "2026-11-16T11:43:01",
+      "local": 10
     }
   },
   "totais": {
@@ -429,6 +435,7 @@
     "https://www1.folha.uol.com.br/colunas/gustavo-alonso/2026/11/a-intimidade-do-poder-revelada.shtml": 643.7,
     "https://www1.folha.uol.com.br/colunas/oscarvilhenavieira/2026/11/primado-da-lei.shtml": 405.4,
     "https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml": 1731.1,
-    "https://www1.folha.uol.com.br/poder/2026/11/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores.shtml": 1341.5
+    "https://www1.folha.uol.com.br/poder/2026/11/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores.shtml": 1341.5,
+    "https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/volta-de-marina-a-esplanada-testa-coerencia-ambiental-de-lula.shtml": 948.2
   }
 }
