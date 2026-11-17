@@ -1,12 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-17T03:58:55",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -432,6 +425,7 @@
     "https://www1.folha.uol.com.br/poder/2026/11/quebra-cabeca-de-lula-4-na-esplanada-envolve-r-26-trilhoes-novas-pastas-e-milhares-de-servidores.shtml": 1341.5,
     "https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/volta-de-marina-a-esplanada-testa-coerencia-ambiental-de-lula.shtml": 948.2,
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml": 572.4,
-    "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml": 572.4
+    "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml": 572.4,
+    "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": 546.6
   }
 }
