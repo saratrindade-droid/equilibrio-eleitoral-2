@@ -6,17 +6,11 @@
       "entrada": "2026-11-17T21:44:12",
       "local": 8
     },
-    "https://www1.folha.uol.com.br/mercado/2026/11/ate-onde-o-dolar-pode-subir-por-que-o-real-e-a-moeda-que-mais-perdeu-valor-desde-a-reeleicao-de-lula.shtml": {
+    "https://www1.folha.uol.com.br/colunas/wilson-gomes/2026/11/se-o-pt-nao-entender-por-que-lula-venceu-ira-repetir-os-mesmos-erros.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-17T21:44:12",
-      "local": 10
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-18T03:09:49",
-      "local": 6
+      "editoria_texto": "colunas/wilson-gomes",
+      "entrada": "2026-11-18T11:42:03",
+      "local": 3
     }
   },
   "totais": {
@@ -446,6 +440,8 @@
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml": 572.4,
     "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml": 572.4,
     "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": 546.6,
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-propoe-nova-engenharia-para-atrair-maioria-no-parlamento.shtml": 325.6
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-propoe-nova-engenharia-para-atrair-maioria-no-parlamento.shtml": 325.6,
+    "https://www1.folha.uol.com.br/mercado/2026/11/ate-onde-o-dolar-pode-subir-por-que-o-real-e-a-moeda-que-mais-perdeu-valor-desde-a-reeleicao-de-lula.shtml": 837.9,
+    "https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml": 512.2
   }
 }
