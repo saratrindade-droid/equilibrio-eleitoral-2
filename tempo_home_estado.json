@@ -1,11 +1,5 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-propoe-nova-engenharia-para-atrair-maioria-no-parlamento.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "colunas/dora-kramer",
-      "entrada": "2026-11-17T21:44:12",
-      "local": 2
-    },
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-vai-as-redes-defender-que-plano-moretti-nao-tera-cortes-para-conter-insatisfacao-na-esquerda.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
@@ -17,6 +11,12 @@
       "editoria_texto": "mercado/2026",
       "entrada": "2026-11-17T21:44:12",
       "local": 10
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/senado-adia-votacao-de-destaques-do-plano-moretti-de-ajuste-nas-contas.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-18T03:09:49",
+      "local": 6
     }
   },
   "totais": {
@@ -445,6 +445,7 @@
     "https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/volta-de-marina-a-esplanada-testa-coerencia-ambiental-de-lula.shtml": 948.2,
     "https://www1.folha.uol.com.br/colunas/encaminhado-com-frequencia/2026/11/tesouraco-se-volta-contra-lula-e-racha-parte-da-esquerda.shtml": 572.4,
     "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-plano-moretti-pacote-de-ajuste-fiscal-para-o-governo-lula-4.shtml": 572.4,
-    "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": 546.6
+    "https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml": 546.6,
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/lula-propoe-nova-engenharia-para-atrair-maioria-no-parlamento.shtml": 325.6
   }
 }
