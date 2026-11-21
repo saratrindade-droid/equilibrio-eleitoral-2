@@ -1,9 +1,15 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/cotidiano/2026/11/supercelula-e-microexplosao-explicam-devastacao-com-ventos-de-114-kmh-no-rio-grande-do-sul.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-4-tera-de-saida-escalada-de-alimentos-e-queda-na-renda-disponivel-das-familias.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "cotidiano/2026",
-      "entrada": "2026-11-20T22:50:45",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-21T11:46:25",
+      "local": 6
+    },
+    "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-perde-tempo-brigando-com-o-mercado.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/adriana-fernandes",
+      "entrada": "2026-11-21T11:46:25",
       "local": 7
     }
   },
@@ -443,6 +449,7 @@
     "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-comeca-a-tirar-plano-moretti-do-fogo-amigo.shtml": 475.5,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/dias-dificeis-neste-inicio-de-lula-4.shtml": 927.1,
     "https://www1.folha.uol.com.br/mercado/2026/11/entenda-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula-que-foi-aprovada-pelo-senado.shtml": 927.1,
-    "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml": 381.6
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml": 381.6,
+    "https://www1.folha.uol.com.br/cotidiano/2026/11/supercelula-e-microexplosao-explicam-devastacao-com-ventos-de-114-kmh-no-rio-grande-do-sul.shtml": 775.7
   }
 }
