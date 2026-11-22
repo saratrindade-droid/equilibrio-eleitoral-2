@@ -1,24 +1,5 @@
 {
-  "ativos": {
-    "https://www1.folha.uol.com.br/poder/2026/11/governo-lula-avalia-enviar-projeto-proprio-para-limitar-supersalarios-na-administracao-publica.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-11-22T11:49:28",
-      "local": 6
-    },
-    "https://www1.folha.uol.com.br/mercado/2026/11/lula-4-reabre-debate-sobre-fim-dos-supersalarios-e-avaliacao-de-servidores.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-22T11:49:28",
-      "local": 7
-    },
-    "https://www1.folha.uol.com.br/opiniao/2026/11/plano-fiscal-mostra-que-lula-ainda-aposta-em-remendos.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "opiniao/2026",
-      "entrada": "2026-11-22T11:49:28",
-      "local": 8
-    }
-  },
+  "ativos": {},
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
@@ -458,6 +439,9 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml": 381.6,
     "https://www1.folha.uol.com.br/cotidiano/2026/11/supercelula-e-microexplosao-explicam-devastacao-com-ventos-de-114-kmh-no-rio-grande-do-sul.shtml": 775.7,
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-4-tera-de-saida-escalada-de-alimentos-e-queda-na-renda-disponivel-das-familias.shtml": 390.2,
-    "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-perde-tempo-brigando-com-o-mercado.shtml": 390.2
+    "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-perde-tempo-brigando-com-o-mercado.shtml": 390.2,
+    "https://www1.folha.uol.com.br/poder/2026/11/governo-lula-avalia-enviar-projeto-proprio-para-limitar-supersalarios-na-administracao-publica.shtml": 412.9,
+    "https://www1.folha.uol.com.br/mercado/2026/11/lula-4-reabre-debate-sobre-fim-dos-supersalarios-e-avaliacao-de-servidores.shtml": 412.9,
+    "https://www1.folha.uol.com.br/opiniao/2026/11/plano-fiscal-mostra-que-lula-ainda-aposta-em-remendos.shtml": 412.9
   }
 }
