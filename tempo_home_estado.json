@@ -1,5 +1,18 @@
 {
-  "ativos": {},
+  "ativos": {
+    "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/pt-repudia-acoes-do-exercito-de-janones-no-governo.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/dora-kramer",
+      "entrada": "2026-11-23T16:09:14",
+      "local": 1
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-598-com-votacao-de-pacote-fiscal-e-aversao-global-ao-risco.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-23T16:09:14",
+      "local": 6
+    }
+  },
   "totais": {
     "https://www1.folha.uol.com.br/poder/2026/08/mendonca-determina-entrega-de-dados-sobre-encontro-do-pt-e-de-projeto-porta-vozes-de-lula.shtml": 152.6,
     "https://www1.folha.uol.com.br/poder/2026/08/lula-declara-ao-tse-que-patrimonio-caiu-r-26-milhoes-em-relacao-a-2022.shtml": 152.6,
