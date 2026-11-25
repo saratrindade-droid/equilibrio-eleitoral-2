@@ -6,11 +6,17 @@
       "entrada": "2026-11-24T23:06:47",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/mercado/2026/11/entenda-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula-que-foi-aprovada-pelo-senado.shtml": {
+    "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-ainda-vai-pelo-caminho-do-meio-do-conserto-fiscal-mas-aceita-alargar-a-estrada.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "colunas/viniciustorres",
+      "entrada": "2026-11-25T05:25:01",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-24T23:06:47",
-      "local": 8
+      "entrada": "2026-11-25T05:25:01",
+      "local": 9
     }
   },
   "totais": {
@@ -448,7 +454,7 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-deve-ir-alem-do-plano-moretti-mas-reacao-a-queda-de-popularidade-e-incerta-diz-eurasia.shtml": 351.8,
     "https://www1.folha.uol.com.br/colunas/adriana-fernandes/2026/11/lula-comeca-a-tirar-plano-moretti-do-fogo-amigo.shtml": 475.5,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/dias-dificeis-neste-inicio-de-lula-4.shtml": 927.1,
-    "https://www1.folha.uol.com.br/mercado/2026/11/entenda-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula-que-foi-aprovada-pelo-senado.shtml": 1550.4,
+    "https://www1.folha.uol.com.br/mercado/2026/11/entenda-o-plano-moretti-proposta-de-ajuste-fiscal-do-governo-lula-que-foi-aprovada-pelo-senado.shtml": 1928.6,
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-diz-que-parte-de-seus-aliados-nao-entendeu-plano-moretti-de-ajuste-nas-contas.shtml": 381.6,
     "https://www1.folha.uol.com.br/cotidiano/2026/11/supercelula-e-microexplosao-explicam-devastacao-com-ventos-de-114-kmh-no-rio-grande-do-sul.shtml": 775.7,
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-4-tera-de-saida-escalada-de-alimentos-e-queda-na-renda-disponivel-das-familias.shtml": 390.2,
