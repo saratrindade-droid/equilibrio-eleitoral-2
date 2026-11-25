@@ -1,22 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/mercado/2026/11/ministros-vao-levar-a-lula-proposta-de-pec-para-conter-gastos-obrigatorios.shtml": {
-      "categoria_texto": "Lula",
-      "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-24T23:06:47",
-      "local": 6
-    },
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-ainda-vai-pelo-caminho-do-meio-do-conserto-fiscal-mas-aceita-alargar-a-estrada.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "colunas/viniciustorres",
       "entrada": "2026-11-25T05:25:01",
-      "local": 8
+      "local": 9
     },
-    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/11/novo-pacote-de-lula-vai-mirar-emendas-gastos-tributarios-e-supersalarios-diz-chefe-da-secretaria-geral.shtml": {
       "categoria_texto": "Lula",
       "editoria_texto": "mercado/2026",
-      "entrada": "2026-11-25T05:25:01",
-      "local": 9
+      "entrada": "2026-11-25T15:55:11",
+      "local": 6
     }
   },
   "totais": {
@@ -465,6 +459,8 @@
     "https://www1.folha.uol.com.br/colunas/dora-kramer/2026/11/pt-repudia-acoes-do-exercito-de-janones-no-governo.shtml": 644.9,
     "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-e-supera-r-598-com-votacao-de-pacote-fiscal-e-aversao-global-ao-risco.shtml": 644.9,
     "https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml": 623.3,
-    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml": 589.4
+    "https://www1.folha.uol.com.br/colunas/deborah-bizarria/2026/11/esquerda-tem-mais-a-oferecer-ao-governo-do-que-briga-com-a-faria-lima.shtml": 589.4,
+    "https://www1.folha.uol.com.br/mercado/2026/11/ministros-vao-levar-a-lula-proposta-de-pec-para-conter-gastos-obrigatorios.shtml": 1008.4,
+    "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml": 630.2
   }
 }
