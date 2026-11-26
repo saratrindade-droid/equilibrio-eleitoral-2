@@ -1,16 +1,16 @@
 {
   "ativos": {
-    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-diz-a-trabuco-que-precisa-dele-no-governo-e-banqueiro-pede-tempo.shtml": {
+    "https://www1.folha.uol.com.br/cotidiano/2026/11/alckmin-e-cotado-para-comandar-o-ministerio-da-seguranca-publica-no-quarto-mandato-de-lula.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "colunas/monicabergamo",
-      "entrada": "2026-11-26T00:01:13",
+      "editoria_texto": "cotidiano/2026",
+      "entrada": "2026-11-26T08:03:21",
       "local": 6
     },
-    "https://www1.folha.uol.com.br/poder/2026/11/sem-previsao-de-integrar-lula-4-haddad-dara-aulas-em-pos-graduacao-da-usp-em-2027.shtml": {
-      "categoria_texto": "Lula e Haddad",
-      "editoria_texto": "poder/2026",
-      "entrada": "2026-11-26T00:01:13",
-      "local": 9
+    "https://www1.folha.uol.com.br/cotidiano/2026/11/lula-ouve-de-ex-ministros-da-justica-que-nova-pasta-da-seguranca-publica-deve-olhar-para-crime-transnacional.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "cotidiano/2026",
+      "entrada": "2026-11-26T08:03:21",
+      "local": 8
     }
   },
   "totais": {
@@ -463,6 +463,8 @@
     "https://www1.folha.uol.com.br/mercado/2026/11/ministros-vao-levar-a-lula-proposta-de-pec-para-conter-gastos-obrigatorios.shtml": 1008.4,
     "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-libera-r-34-bi-do-orcamento-apos-excluir-mais-despesas-da-meta-de-2026.shtml": 630.2,
     "https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/lula-ainda-vai-pelo-caminho-do-meio-do-conserto-fiscal-mas-aceita-alargar-a-estrada.shtml": 1116.2,
-    "https://www1.folha.uol.com.br/mercado/2026/11/novo-pacote-de-lula-vai-mirar-emendas-gastos-tributarios-e-supersalarios-diz-chefe-da-secretaria-geral.shtml": 486.0
+    "https://www1.folha.uol.com.br/mercado/2026/11/novo-pacote-de-lula-vai-mirar-emendas-gastos-tributarios-e-supersalarios-diz-chefe-da-secretaria-geral.shtml": 486.0,
+    "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/11/lula-diz-a-trabuco-que-precisa-dele-no-governo-e-banqueiro-pede-tempo.shtml": 482.1,
+    "https://www1.folha.uol.com.br/poder/2026/11/sem-previsao-de-integrar-lula-4-haddad-dara-aulas-em-pos-graduacao-da-usp-em-2027.shtml": 482.1
   }
 }
