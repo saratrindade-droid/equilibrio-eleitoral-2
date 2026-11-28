@@ -1,10 +1,22 @@
 {
   "ativos": {
-    "https://c-level.folha.uol.com.br/financas/2026/11/pgr-opina-contra-obrigar-governo-lula-a-avalizar-emprestimo-para-salvar-brb.shtml": {
+    "https://www1.folha.uol.com.br/mercado/2026/11/trabuco-no-lula-4-deve-distensionar-relacao-de-conflito-com-bc-dizem-aliados.shtml": {
       "categoria_texto": "Lula",
-      "editoria_texto": "financas/2026",
-      "entrada": "2026-11-28T02:07:23",
-      "local": 7
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-28T10:20:19",
+      "local": 8
+    },
+    "https://www1.folha.uol.com.br/colunas/painel/2026/11/elogio-de-haddad-a-trabuco-ecoa-mensagem-de-banqueiro-para-petista-em-2022.shtml": {
+      "categoria_texto": "Haddad",
+      "editoria_texto": "colunas/painel",
+      "entrada": "2026-11-28T10:20:19",
+      "local": 9
+    },
+    "https://www1.folha.uol.com.br/mercado/2026/11/veja-dez-desafios-para-luiz-carlos-trabuco-na-fazenda-do-governo-lula-4.shtml": {
+      "categoria_texto": "Lula",
+      "editoria_texto": "mercado/2026",
+      "entrada": "2026-11-28T10:20:19",
+      "local": 10
     }
   },
   "totais": {
@@ -469,6 +481,7 @@
     "https://www1.folha.uol.com.br/podcasts/2026/11/podcast-explica-escolha-de-lula-por-trabuco-e-o-que-esperar-da-gestao-dele-na-fazenda.shtml": 556.5,
     "https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/11/lula-capitulou.shtml": 396.2,
     "https://www1.folha.uol.com.br/mercado/2026/11/lula-fala-em-ajustes-diz-que-nao-pode-gastar-dinheiro-a-toa-mas-nega-corte-de-beneficios.shtml": 396.2,
-    "https://www1.folha.uol.com.br/mercado/2026/11/haddad-deseja-sorte-e-serenidade-a-trabuco-e-diz-que-fazenda-deve-mirar-programa-eleito-nas-ruas.shtml": 396.2
+    "https://www1.folha.uol.com.br/mercado/2026/11/haddad-deseja-sorte-e-serenidade-a-trabuco-e-diz-que-fazenda-deve-mirar-programa-eleito-nas-ruas.shtml": 396.2,
+    "https://c-level.folha.uol.com.br/financas/2026/11/pgr-opina-contra-obrigar-governo-lula-a-avalizar-emprestimo-para-salvar-brb.shtml": 492.9
   }
 }
